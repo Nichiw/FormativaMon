@@ -1,8 +1,13 @@
+# https://tinyurl.com/devsecops160426
+
 from fastapi import FastAPI, status, Response
 from logging import getLogger, StreamHandler, FileHandler, Formatter, DEBUG
 
-from time import sleep
+from time import sleep, perf_counter
 from random import randint
+
+import psutil
+import sys
 
 API = FastAPI()
 
@@ -35,39 +40,150 @@ PRODUTOS = {
 }
 
 PEDIDOS = []
+QUANTIDADE_ERROS = {
+    'except': 0,
+    'erro_api': 0,
+}
+LATENCIA_MEDIA_ENDPOINT = {
+    '/produtos': 0,
+    '/pedidos': 0
+}
+QUANTIDADE_REQUISICOES = 0
+QUANTIDADE_PEDIDOS = 0
+
+LOGGER = getLogger(__name__)
+LOGGER.setLevel(DEBUG)
+
+FORMATTER = Formatter(fmt="%(asctime)s | %(levelname)s | %(message)s")
+
+SH = StreamHandler(sys.stdout)
+SH.setFormatter(FORMATTER)
+
+FH = FileHandler("16_04_26.log")
+FH.setFormatter(FORMATTER)
+
+LOGGER.addHandler(SH)
+LOGGER.addHandler(FH)
+
+def coletar_saturacao():
+    uso_cpu = psutil.cpu_percent()
+    uso_memoria = psutil.virtual_memory().percent
+
+    return uso_cpu, uso_memoria
+
+def contabilizar_erro(tipo_erro: str):
+    global QUANTIDADE_ERROS
+    QUANTIDADE_ERROS[tipo_erro] += 1
+
+def contabilizar_latencia(endpoint: str, latencia: float):
+    global LATENCIA_MEDIA_ENDPOINT
+    LATENCIA_MEDIA_ENDPOINT[endpoint] += latencia / QUANTIDADE_REQUISICOES
+
+def contabilizar_requisicoes():
+    global QUANTIDADE_REQUISICOES
+    QUANTIDADE_REQUISICOES += 1
 
 def simula_latencia(tempo_min: int, tempo_max: int) -> int:
     t = randint(tempo_min, tempo_max) / 10
     sleep(t)
+    LOGGER.debug(f"Latência simulada: {t}")
     return t
 
 @API.get("/produtos")
 def produtos():
-    t = simula_latencia(0, 20)
-    
-    print("Produtos listados")
+    inicio = perf_counter()
+    try:
+        t = simula_latencia(0, 20)
+        
+        LOGGER.info("Produtos listados")
 
-    return PRODUTOS
+        fim = perf_counter()
+
+        cpu, mem = coletar_saturacao()
+        LOGGER.info(f"Consumo GET /produtos CPU: {cpu}, Memória: {mem}")
+        return PRODUTOS
+    except Exception as e:
+        LOGGER.error(e)
+        contabilizar_erro('except')
+        return {"status": "Erro interno"}
+    finally:
+        fim = perf_counter()
+
+        LOGGER.info(f"Latência /produtos -> {fim - inicio:.3f}")
+        contabilizar_requisicoes()
+        contabilizar_latencia('/produtos', fim-inicio)
 
 
 @API.post("/produtos", status_code=status.HTTP_201_CREATED)
 def pedido(nome_produto: str, response: Response):
+    global QUANTIDADE_PEDIDOS
+    inicio = perf_counter()
     # Simulando latência
     t = simula_latencia(0, 15)
 
-    if nome_produto not in PRODUTOS.keys():
-        response.status_code = status.HTTP_400_BAD_REQUEST
-        return ({"status": "Produto não existe"})
+    try:
+        if nome_produto not in PRODUTOS.keys():
+            response.status_code = status.HTTP_400_BAD_REQUEST
+            fim = perf_counter()
+        
+            LOGGER.info(f"Latência /produtos -> {fim - inicio:.3f}")
+            contabilizar_erro('erro_api')
+            LOGGER.debug(f"Produto: {nome_produto}")
 
-    print(f"Produto {nome_produto} selecionado")
+            return ({"status": "Produto não existe"})
+        
 
-    PEDIDOS.append(PRODUTOS[nome_produto])
+        LOGGER.info(f"Produto {nome_produto} selecionado")
 
-    return {"status": "Pedido realizado com sucesso"}
+        PEDIDOS.append(PRODUTOS[nome_produto])
+        QUANTIDADE_PEDIDOS += 1
+        fim = perf_counter()
+        cpu, mem = coletar_saturacao()
+        LOGGER.info(f"Consumo POST /produtos CPU: {cpu}, Memória: {mem}")
+
+        latencia = fim - inicio
+
+        if latencia > 0.5:
+            LOGGER.warning(f"Pedido demorou {latencia}s")
+
+        LOGGER.info(f"Latência /produtos -> {latencia:.3f}")
+
+        return {"status": "Pedido realizado com sucesso"}
+    except Exception as e:
+        LOGGER.info(f"Latência /produtos -> {fim - inicio:.3f}")
+        LOGGER.error(e)
+        contabilizar_erro('except')
+        contabilizar_latencia('/pedidos', t)
+        return {"status": "Erro interno"}
+    finally:
+        contabilizar_latencia('/produtos', fim-inicio)
+        contabilizar_requisicoes()
+
 
 @API.get("/pedidos", status_code=status.HTTP_200_OK)
 def listar_pedidos():
-    # Simulando latência
-    t = simula_latencia(0, 10)
+    inicio = perf_counter()
 
-    return PEDIDOS
+    try:
+        # Simulando latência
+        t = simula_latencia(0, 10)
+        cpu, mem = coletar_saturacao()
+        LOGGER.info(f"Consumo GET /pedidos CPU: {cpu}, Memória: {mem}")
+        return PEDIDOS
+    except Exception as e:
+        LOGGER.error(e)
+        contabilizar_erro('except')
+        return {"status": "erro interno"}
+    finally:
+        fim = perf_counter()
+        LOGGER.info(f"Latência /produtos -> {fim - inicio:.3f}")
+        contabilizar_latencia('/pedidos', fim-inicio)
+        contabilizar_requisicoes()
+
+@API.get("/metricas")
+def metricas():
+    return {
+        'quantidade_pedidos': QUANTIDADE_PEDIDOS,
+        'quantidade_erros': QUANTIDADE_ERROS,
+        'latencia_media': LATENCIA_MEDIA_ENDPOINT
+    }
