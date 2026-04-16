@@ -1,0 +1,1212 @@
+2026-04-16 22:30:24,156 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:24,157 | INFO | Saturação — CPU: 0.0% | Memória: 35.2%
+2026-04-16 22:30:25,357 | WARNING | Latência alta em [GET /produtos] — 1201ms (limite: 1000ms)
+2026-04-16 22:30:25,357 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:25,363 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Arctic MX-6 (Pasta Térmica)'
+2026-04-16 22:30:25,364 | INFO | Saturação — CPU: 34.7% | Memória: 35.3%
+2026-04-16 22:30:25,364 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:25,365 | INFO | Saturação — CPU: 0.0% | Memória: 35.3%
+2026-04-16 22:30:26,066 | INFO | Latência de [GET /produtos] — 702ms
+2026-04-16 22:30:26,067 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:26,070 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:26,070 | INFO | Saturação — CPU: 8.6% | Memória: 35.3%
+2026-04-16 22:30:26,571 | INFO | Latência de [GET /produtos] — 501ms
+2026-04-16 22:30:26,571 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:26,574 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:26,574 | INFO | Saturação — CPU: 19.0% | Memória: 35.3%
+2026-04-16 22:30:26,766 | WARNING | Latência alta em [POST /produtos] — 1403ms (limite: 1000ms)
+2026-04-16 22:30:26,766 | INFO | POST /produtos — Pedido de 'Arctic MX-6 (Pasta Térmica)' realizado com sucesso | Total de pedidos: 1
+2026-04-16 22:30:26,771 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Cooler Master TD500 Mesh'
+2026-04-16 22:30:26,771 | INFO | Saturação — CPU: 15.1% | Memória: 35.3%
+2026-04-16 22:30:28,073 | WARNING | Latência alta em [POST /produtos] — 1302ms (limite: 1000ms)
+2026-04-16 22:30:28,074 | INFO | POST /produtos — Pedido de 'Cooler Master TD500 Mesh' realizado com sucesso | Total de pedidos: 2
+2026-04-16 22:30:28,093 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Intel Core i9-14900K'
+2026-04-16 22:30:28,094 | INFO | Saturação — CPU: 12.5% | Memória: 35.3%
+2026-04-16 22:30:28,175 | WARNING | Latência alta em [GET /produtos] — 1601ms (limite: 1000ms)
+2026-04-16 22:30:28,175 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:28,181 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:28,181 | INFO | Saturação — CPU: 18.5% | Memória: 35.3%
+2026-04-16 22:30:28,895 | INFO | Latência de [POST /produtos] — 802ms
+2026-04-16 22:30:28,896 | INFO | POST /produtos — Pedido de 'Intel Core i9-14900K' realizado com sucesso | Total de pedidos: 3
+2026-04-16 22:30:28,901 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'DeepCool AK620'
+2026-04-16 22:30:28,901 | INFO | Saturação — CPU: 46.5% | Memória: 35.3%
+2026-04-16 22:30:29,502 | INFO | Latência de [POST /produtos] — 601ms
+2026-04-16 22:30:29,502 | INFO | POST /produtos — Pedido de 'DeepCool AK620' realizado com sucesso | Total de pedidos: 4
+2026-04-16 22:30:29,505 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Arctic MX-6 (Pasta Térmica)'
+2026-04-16 22:30:29,506 | INFO | Saturação — CPU: 20.0% | Memória: 35.3%
+2026-04-16 22:30:29,782 | WARNING | Latência alta em [GET /produtos] — 1601ms (limite: 1000ms)
+2026-04-16 22:30:29,782 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:29,786 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:29,786 | INFO | Saturação — CPU: 27.0% | Memória: 35.3%
+2026-04-16 22:30:30,006 | INFO | Latência de [POST /produtos] — 501ms
+2026-04-16 22:30:30,006 | INFO | POST /produtos — Pedido de 'Arctic MX-6 (Pasta Térmica)' realizado com sucesso | Total de pedidos: 5
+2026-04-16 22:30:30,009 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Be Quiet! Silent Wings 4'
+2026-04-16 22:30:30,010 | INFO | Saturação — CPU: 6.0% | Memória: 35.3%
+2026-04-16 22:30:30,886 | WARNING | Latência alta em [GET /produtos] — 1101ms (limite: 1000ms)
+2026-04-16 22:30:30,887 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:30,890 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:30,890 | INFO | Saturação — CPU: 17.4% | Memória: 35.1%
+2026-04-16 22:30:31,510 | WARNING | Latência alta em [POST /produtos] — 1501ms (limite: 1000ms)
+2026-04-16 22:30:31,510 | INFO | POST /produtos — Pedido de 'Be Quiet! Silent Wings 4' realizado com sucesso | Total de pedidos: 6
+2026-04-16 22:30:31,514 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'NVIDIA RTX 4090'
+2026-04-16 22:30:31,515 | INFO | Saturação — CPU: 20.5% | Memória: 35.1%
+2026-04-16 22:30:31,891 | WARNING | Latência alta em [GET /produtos] — 1001ms (limite: 1000ms)
+2026-04-16 22:30:31,891 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:31,894 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:31,894 | INFO | Saturação — CPU: 18.2% | Memória: 35.1%
+2026-04-16 22:30:31,895 | INFO | Latência de [GET /produtos] — 1ms
+2026-04-16 22:30:31,895 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:31,897 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:31,898 | INFO | Saturação — CPU: 0.0% | Memória: 35.1%
+2026-04-16 22:30:32,598 | INFO | Latência de [GET /produtos] — 701ms
+2026-04-16 22:30:32,598 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:32,602 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:32,602 | INFO | Saturação — CPU: 5.7% | Memória: 35.1%
+2026-04-16 22:30:32,915 | WARNING | Latência alta em [POST /produtos] — 1401ms (limite: 1000ms)
+2026-04-16 22:30:32,916 | INFO | POST /produtos — Pedido de 'NVIDIA RTX 4090' realizado com sucesso | Total de pedidos: 7
+2026-04-16 22:30:32,923 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Western Digital Black 4TB'
+2026-04-16 22:30:32,923 | INFO | Saturação — CPU: 14.3% | Memória: 35.3%
+2026-04-16 22:30:32,924 | INFO | Latência de [POST /produtos] — 1ms
+2026-04-16 22:30:32,924 | INFO | POST /produtos — Pedido de 'Western Digital Black 4TB' realizado com sucesso | Total de pedidos: 8
+2026-04-16 22:30:32,932 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Seagate IronWolf 8TB HDD'
+2026-04-16 22:30:32,932 | INFO | Saturação — CPU: 100.0% | Memória: 35.3%
+2026-04-16 22:30:33,432 | INFO | Latência de [POST /produtos] — 501ms
+2026-04-16 22:30:33,433 | INFO | POST /produtos — Pedido de 'Seagate IronWolf 8TB HDD' realizado com sucesso | Total de pedidos: 9
+2026-04-16 22:30:33,436 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Logitech G Pro X Superlight'
+2026-04-16 22:30:33,436 | INFO | Saturação — CPU: 26.0% | Memória: 35.3%
+2026-04-16 22:30:33,537 | INFO | Latência de [POST /produtos] — 101ms
+2026-04-16 22:30:33,537 | INFO | POST /produtos — Pedido de 'Logitech G Pro X Superlight' realizado com sucesso | Total de pedidos: 10
+2026-04-16 22:30:33,540 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Logitech G Pro X Superlight'
+2026-04-16 22:30:33,541 | INFO | Saturação — CPU: 9.1% | Memória: 35.3%
+2026-04-16 22:30:33,741 | INFO | Latência de [POST /produtos] — 201ms
+2026-04-16 22:30:33,741 | INFO | POST /produtos — Pedido de 'Logitech G Pro X Superlight' realizado com sucesso | Total de pedidos: 11
+2026-04-16 22:30:33,745 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'mouse'
+2026-04-16 22:30:33,745 | INFO | Saturação — CPU: 7.5% | Memória: 35.3%
+2026-04-16 22:30:34,602 | WARNING | Latência alta em [GET /produtos] — 2001ms (limite: 1000ms)
+2026-04-16 22:30:34,603 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:34,606 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:34,606 | INFO | Saturação — CPU: 17.6% | Memória: 35.3%
+2026-04-16 22:30:34,846 | WARNING | Latência alta em [POST /produtos] — 1101ms (limite: 1000ms)
+2026-04-16 22:30:34,846 | ERROR | Erro — Produto 'mouse' não encontrado no catálogo (HTTP 400)
+2026-04-16 22:30:34,849 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Lian Li PC-O11 Dynamic'
+2026-04-16 22:30:34,849 | INFO | Saturação — CPU: 9.6% | Memória: 35.3%
+2026-04-16 22:30:35,706 | WARNING | Latência alta em [GET /produtos] — 1101ms (limite: 1000ms)
+2026-04-16 22:30:35,707 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:35,710 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:35,711 | INFO | Saturação — CPU: 16.9% | Memória: 35.4%
+2026-04-16 22:30:35,750 | INFO | Latência de [POST /produtos] — 901ms
+2026-04-16 22:30:35,750 | INFO | POST /produtos — Pedido de 'Lian Li PC-O11 Dynamic' realizado com sucesso | Total de pedidos: 12
+2026-04-16 22:30:35,754 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Razer BlackWidow V4 Pro'
+2026-04-16 22:30:35,754 | INFO | Saturação — CPU: 21.5% | Memória: 35.5%
+2026-04-16 22:30:36,511 | INFO | Latência de [GET /produtos] — 801ms
+2026-04-16 22:30:36,511 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:36,515 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:36,515 | INFO | Saturação — CPU: 22.6% | Memória: 35.4%
+2026-04-16 22:30:36,755 | WARNING | Latência alta em [POST /produtos] — 1001ms (limite: 1000ms)
+2026-04-16 22:30:36,755 | INFO | POST /produtos — Pedido de 'Razer BlackWidow V4 Pro' realizado com sucesso | Total de pedidos: 13
+2026-04-16 22:30:36,761 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Western Digital Black 4TB'
+2026-04-16 22:30:36,761 | INFO | Saturação — CPU: 20.2% | Memória: 35.4%
+2026-04-16 22:30:36,762 | INFO | Latência de [POST /produtos] — 1ms
+2026-04-16 22:30:36,762 | INFO | POST /produtos — Pedido de 'Western Digital Black 4TB' realizado com sucesso | Total de pedidos: 14
+2026-04-16 22:30:36,765 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'NVIDIA RTX 4090'
+2026-04-16 22:30:36,766 | INFO | Saturação — CPU: 100.0% | Memória: 35.4%
+2026-04-16 22:30:36,915 | INFO | Latência de [GET /produtos] — 401ms
+2026-04-16 22:30:36,915 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:36,919 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:36,919 | INFO | Saturação — CPU: 16.5% | Memória: 35.4%
+2026-04-16 22:30:37,267 | INFO | Latência de [POST /produtos] — 501ms
+2026-04-16 22:30:37,267 | INFO | POST /produtos — Pedido de 'NVIDIA RTX 4090' realizado com sucesso | Total de pedidos: 15
+2026-04-16 22:30:37,270 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Logitech G Pro X Superlight'
+2026-04-16 22:30:37,271 | INFO | Saturação — CPU: 8.0% | Memória: 35.4%
+2026-04-16 22:30:37,471 | INFO | Latência de [POST /produtos] — 201ms
+2026-04-16 22:30:37,471 | INFO | POST /produtos — Pedido de 'Logitech G Pro X Superlight' realizado com sucesso | Total de pedidos: 16
+2026-04-16 22:30:37,475 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Gigabyte B650 AORUS Elite'
+2026-04-16 22:30:37,475 | INFO | Saturação — CPU: 7.3% | Memória: 35.4%
+2026-04-16 22:30:37,676 | INFO | Latência de [POST /produtos] — 201ms
+2026-04-16 22:30:37,676 | INFO | POST /produtos — Pedido de 'Gigabyte B650 AORUS Elite' realizado com sucesso | Total de pedidos: 17
+2026-04-16 22:30:37,679 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Logitech G Pro X Superlight'
+2026-04-16 22:30:37,679 | INFO | Saturação — CPU: 36.6% | Memória: 35.4%
+2026-04-16 22:30:37,919 | WARNING | Latência alta em [GET /produtos] — 1001ms (limite: 1000ms)
+2026-04-16 22:30:37,920 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:37,923 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:37,923 | INFO | Saturação — CPU: 14.9% | Memória: 35.4%
+2026-04-16 22:30:37,923 | INFO | Latência de [GET /produtos] — 1ms
+2026-04-16 22:30:37,923 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:37,926 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:37,926 | INFO | Saturação — CPU: 100.0% | Memória: 35.4%
+2026-04-16 22:30:38,827 | INFO | Latência de [GET /produtos] — 901ms
+2026-04-16 22:30:38,827 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:38,831 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:38,831 | INFO | Saturação — CPU: 6.1% | Memória: 35.4%
+2026-04-16 22:30:39,080 | WARNING | Latência alta em [POST /produtos] — 1401ms (limite: 1000ms)
+2026-04-16 22:30:39,080 | INFO | POST /produtos — Pedido de 'Logitech G Pro X Superlight' realizado com sucesso | Total de pedidos: 18
+2026-04-16 22:30:39,083 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Razer BlackWidow V4 Pro'
+2026-04-16 22:30:39,084 | INFO | Saturação — CPU: 7.9% | Memória: 35.4%
+2026-04-16 22:30:39,731 | INFO | Latência de [GET /produtos] — 901ms
+2026-04-16 22:30:39,732 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:39,735 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:39,735 | INFO | Saturação — CPU: 15.6% | Memória: 35.4%
+2026-04-16 22:30:40,084 | WARNING | Latência alta em [POST /produtos] — 1001ms (limite: 1000ms)
+2026-04-16 22:30:40,084 | INFO | POST /produtos — Pedido de 'Razer BlackWidow V4 Pro' realizado com sucesso | Total de pedidos: 19
+2026-04-16 22:30:40,087 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Logitech G Pro X Superlight'
+2026-04-16 22:30:40,088 | INFO | Saturação — CPU: 13.5% | Memória: 35.4%
+2026-04-16 22:30:40,088 | INFO | Latência de [POST /produtos] — 1ms
+2026-04-16 22:30:40,088 | INFO | POST /produtos — Pedido de 'Logitech G Pro X Superlight' realizado com sucesso | Total de pedidos: 20
+2026-04-16 22:30:40,091 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'mouse'
+2026-04-16 22:30:40,092 | INFO | Saturação — CPU: 100.0% | Memória: 35.4%
+2026-04-16 22:30:40,194 | INFO | Latência de [POST /produtos] — 102ms
+2026-04-16 22:30:40,195 | ERROR | Erro — Produto 'mouse' não encontrado no catálogo (HTTP 400)
+2026-04-16 22:30:40,200 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Intel Core i9-14900K'
+2026-04-16 22:30:40,201 | INFO | Saturação — CPU: 38.1% | Memória: 35.4%
+2026-04-16 22:30:40,901 | INFO | Latência de [POST /produtos] — 701ms
+2026-04-16 22:30:40,901 | INFO | POST /produtos — Pedido de 'Intel Core i9-14900K' realizado com sucesso | Total de pedidos: 21
+2026-04-16 22:30:40,905 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'AMD Radeon RX 7900 XTX'
+2026-04-16 22:30:40,905 | INFO | Saturação — CPU: 7.2% | Memória: 35.4%
+2026-04-16 22:30:41,036 | WARNING | Latência alta em [GET /produtos] — 1301ms (limite: 1000ms)
+2026-04-16 22:30:41,036 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:41,039 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:41,039 | INFO | Saturação — CPU: 9.3% | Memória: 35.4%
+2026-04-16 22:30:41,705 | INFO | Latência de [POST /produtos] — 801ms
+2026-04-16 22:30:41,705 | INFO | POST /produtos — Pedido de 'AMD Radeon RX 7900 XTX' realizado com sucesso | Total de pedidos: 22
+2026-04-16 22:30:41,709 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Noctua NH-D15'
+2026-04-16 22:30:41,709 | INFO | Saturação — CPU: 29.4% | Memória: 35.4%
+2026-04-16 22:30:41,809 | INFO | Latência de [POST /produtos] — 101ms
+2026-04-16 22:30:41,810 | INFO | POST /produtos — Pedido de 'Noctua NH-D15' realizado com sucesso | Total de pedidos: 23
+2026-04-16 22:30:41,813 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'TP-Link Archer TX3000E Wi-Fi 6'
+2026-04-16 22:30:41,813 | INFO | Saturação — CPU: 40.9% | Memória: 35.4%
+2026-04-16 22:30:42,240 | WARNING | Latência alta em [GET /produtos] — 1201ms (limite: 1000ms)
+2026-04-16 22:30:42,240 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:42,243 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:42,243 | INFO | Saturação — CPU: 25.1% | Memória: 35.4%
+2026-04-16 22:30:42,713 | INFO | Latência de [POST /produtos] — 901ms
+2026-04-16 22:30:42,713 | INFO | POST /produtos — Pedido de 'TP-Link Archer TX3000E Wi-Fi 6' realizado com sucesso | Total de pedidos: 24
+2026-04-16 22:30:42,717 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'AMD Ryzen 7 7800X3D'
+2026-04-16 22:30:42,717 | INFO | Saturação — CPU: 6.1% | Memória: 35.4%
+2026-04-16 22:30:42,744 | INFO | Latência de [GET /produtos] — 501ms
+2026-04-16 22:30:42,744 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:42,747 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:42,747 | INFO | Saturação — CPU: 6.1% | Memória: 35.4%
+2026-04-16 22:30:43,748 | WARNING | Latência alta em [GET /produtos] — 1001ms (limite: 1000ms)
+2026-04-16 22:30:43,748 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:43,752 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:43,753 | INFO | Saturação — CPU: 20.4% | Memória: 35.4%
+2026-04-16 22:30:44,017 | WARNING | Latência alta em [POST /produtos] — 1301ms (limite: 1000ms)
+2026-04-16 22:30:44,018 | INFO | POST /produtos — Pedido de 'AMD Ryzen 7 7800X3D' realizado com sucesso | Total de pedidos: 25
+2026-04-16 22:30:44,021 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'NZXT Kraken Elite 360'
+2026-04-16 22:30:44,021 | INFO | Saturação — CPU: 17.8% | Memória: 35.4%
+2026-04-16 22:30:44,722 | INFO | Latência de [POST /produtos] — 701ms
+2026-04-16 22:30:44,722 | INFO | POST /produtos — Pedido de 'NZXT Kraken Elite 360' realizado com sucesso | Total de pedidos: 26
+2026-04-16 22:30:44,726 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Corsair Vengeance RGB 32GB DDR5'
+2026-04-16 22:30:44,726 | INFO | Saturação — CPU: 10.0% | Memória: 35.4%
+2026-04-16 22:30:45,654 | WARNING | Latência alta em [GET /produtos] — 1901ms (limite: 1000ms)
+2026-04-16 22:30:45,654 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:45,657 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:45,657 | INFO | Saturação — CPU: 9.2% | Memória: 35.4%
+2026-04-16 22:30:45,827 | WARNING | Latência alta em [POST /produtos] — 1101ms (limite: 1000ms)
+2026-04-16 22:30:45,829 | INFO | POST /produtos — Pedido de 'Corsair Vengeance RGB 32GB DDR5' realizado com sucesso | Total de pedidos: 27
+2026-04-16 22:30:45,843 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Intel Core i9-14900K'
+2026-04-16 22:30:45,844 | INFO | Saturação — CPU: 14.3% | Memória: 35.4%
+2026-04-16 22:30:46,058 | INFO | Latência de [GET /produtos] — 401ms
+2026-04-16 22:30:46,058 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:46,061 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:46,061 | INFO | Saturação — CPU: 24.1% | Memória: 35.4%
+2026-04-16 22:30:46,445 | INFO | Latência de [POST /produtos] — 601ms
+2026-04-16 22:30:46,445 | INFO | POST /produtos — Pedido de 'Intel Core i9-14900K' realizado com sucesso | Total de pedidos: 28
+2026-04-16 22:30:46,448 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'TP-Link Archer TX3000E Wi-Fi 6'
+2026-04-16 22:30:46,448 | INFO | Saturação — CPU: 18.5% | Memória: 35.4%
+2026-04-16 22:30:46,749 | INFO | Latência de [POST /produtos] — 301ms
+2026-04-16 22:30:46,749 | INFO | POST /produtos — Pedido de 'TP-Link Archer TX3000E Wi-Fi 6' realizado com sucesso | Total de pedidos: 29
+2026-04-16 22:30:46,752 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Logitech G Pro X Superlight'
+2026-04-16 22:30:46,753 | INFO | Saturação — CPU: 18.0% | Memória: 35.5%
+2026-04-16 22:30:47,153 | INFO | Latência de [POST /produtos] — 401ms
+2026-04-16 22:30:47,153 | INFO | POST /produtos — Pedido de 'Logitech G Pro X Superlight' realizado com sucesso | Total de pedidos: 30
+2026-04-16 22:30:47,157 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Intel Core i9-14900K'
+2026-04-16 22:30:47,157 | INFO | Saturação — CPU: 28.4% | Memória: 35.5%
+2026-04-16 22:30:47,162 | WARNING | Latência alta em [GET /produtos] — 1101ms (limite: 1000ms)
+2026-04-16 22:30:47,162 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:47,166 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:47,167 | INFO | Saturação — CPU: 24.3% | Memória: 35.5%
+2026-04-16 22:30:47,457 | INFO | Latência de [POST /produtos] — 301ms
+2026-04-16 22:30:47,458 | INFO | POST /produtos — Pedido de 'Intel Core i9-14900K' realizado com sucesso | Total de pedidos: 31
+2026-04-16 22:30:47,461 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'AMD Ryzen 7 7800X3D'
+2026-04-16 22:30:47,461 | INFO | Saturação — CPU: 8.2% | Memória: 35.5%
+2026-04-16 22:30:47,562 | INFO | Latência de [POST /produtos] — 101ms
+2026-04-16 22:30:47,562 | INFO | POST /produtos — Pedido de 'AMD Ryzen 7 7800X3D' realizado com sucesso | Total de pedidos: 32
+2026-04-16 22:30:47,565 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Lian Li PC-O11 Dynamic'
+2026-04-16 22:30:47,566 | INFO | Saturação — CPU: 0.0% | Memória: 35.5%
+2026-04-16 22:30:48,067 | INFO | Latência de [GET /produtos] — 901ms
+2026-04-16 22:30:48,067 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:48,070 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:48,071 | INFO | Saturação — CPU: 11.2% | Memória: 35.5%
+2026-04-16 22:30:48,672 | INFO | Latência de [GET /produtos] — 602ms
+2026-04-16 22:30:48,672 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:48,676 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:48,676 | INFO | Saturação — CPU: 4.9% | Memória: 35.5%
+2026-04-16 22:30:48,866 | WARNING | Latência alta em [POST /produtos] — 1301ms (limite: 1000ms)
+2026-04-16 22:30:48,866 | INFO | POST /produtos — Pedido de 'Lian Li PC-O11 Dynamic' realizado com sucesso | Total de pedidos: 33
+2026-04-16 22:30:48,869 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Cooler Master TD500 Mesh'
+2026-04-16 22:30:48,870 | INFO | Saturação — CPU: 10.1% | Memória: 35.5%
+2026-04-16 22:30:50,176 | WARNING | Latência alta em [POST /produtos] — 1307ms (limite: 1000ms)
+2026-04-16 22:30:50,180 | INFO | POST /produtos — Pedido de 'Cooler Master TD500 Mesh' realizado com sucesso | Total de pedidos: 34
+2026-04-16 22:30:50,203 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'NZXT Kraken Elite 360'
+2026-04-16 22:30:50,204 | INFO | Saturação — CPU: 12.8% | Memória: 35.5%
+2026-04-16 22:30:50,376 | WARNING | Latência alta em [GET /produtos] — 1701ms (limite: 1000ms)
+2026-04-16 22:30:50,378 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:50,412 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:50,416 | INFO | Saturação — CPU: 17.7% | Memória: 35.5%
+2026-04-16 22:30:50,727 | INFO | Latência de [GET /produtos] — 315ms
+2026-04-16 22:30:50,727 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:50,732 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:50,732 | INFO | Saturação — CPU: 81.2% | Memória: 35.5%
+2026-04-16 22:30:51,406 | WARNING | Latência alta em [POST /produtos] — 1202ms (limite: 1000ms)
+2026-04-16 22:30:51,406 | INFO | POST /produtos — Pedido de 'NZXT Kraken Elite 360' realizado com sucesso | Total de pedidos: 35
+2026-04-16 22:30:51,409 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Cooler Master TD500 Mesh'
+2026-04-16 22:30:51,410 | INFO | Saturação — CPU: 42.1% | Memória: 35.5%
+2026-04-16 22:30:51,510 | INFO | Latência de [POST /produtos] — 101ms
+2026-04-16 22:30:51,510 | INFO | POST /produtos — Pedido de 'Cooler Master TD500 Mesh' realizado com sucesso | Total de pedidos: 36
+2026-04-16 22:30:51,514 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Western Digital Black 4TB'
+2026-04-16 22:30:51,514 | INFO | Saturação — CPU: 55.0% | Memória: 35.5%
+2026-04-16 22:30:51,714 | INFO | Latência de [POST /produtos] — 201ms
+2026-04-16 22:30:51,715 | INFO | POST /produtos — Pedido de 'Western Digital Black 4TB' realizado com sucesso | Total de pedidos: 37
+2026-04-16 22:30:51,718 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Corsair RM1000x 1000W'
+2026-04-16 22:30:51,718 | INFO | Saturação — CPU: 14.6% | Memória: 35.5%
+2026-04-16 22:30:51,833 | WARNING | Latência alta em [GET /produtos] — 1101ms (limite: 1000ms)
+2026-04-16 22:30:51,833 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:51,841 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:51,842 | INFO | Saturação — CPU: 22.8% | Memória: 35.5%
+2026-04-16 22:30:52,719 | WARNING | Latência alta em [POST /produtos] — 1001ms (limite: 1000ms)
+2026-04-16 22:30:52,719 | INFO | POST /produtos — Pedido de 'Corsair RM1000x 1000W' realizado com sucesso | Total de pedidos: 38
+2026-04-16 22:30:52,722 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Corsair RM1000x 1000W'
+2026-04-16 22:30:52,723 | INFO | Saturação — CPU: 22.6% | Memória: 35.5%
+2026-04-16 22:30:52,843 | WARNING | Latência alta em [GET /produtos] — 1002ms (limite: 1000ms)
+2026-04-16 22:30:52,843 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:52,846 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:52,847 | INFO | Saturação — CPU: 19.6% | Memória: 35.5%
+2026-04-16 22:30:53,147 | INFO | Latência de [GET /produtos] — 301ms
+2026-04-16 22:30:53,148 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:53,151 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:53,151 | INFO | Saturação — CPU: 18.3% | Memória: 35.5%
+2026-04-16 22:30:53,352 | INFO | Latência de [GET /produtos] — 201ms
+2026-04-16 22:30:53,352 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:53,356 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:53,356 | INFO | Saturação — CPU: 45.0% | Memória: 35.4%
+2026-04-16 22:30:53,923 | WARNING | Latência alta em [POST /produtos] — 1201ms (limite: 1000ms)
+2026-04-16 22:30:53,923 | INFO | POST /produtos — Pedido de 'Corsair RM1000x 1000W' realizado com sucesso | Total de pedidos: 39
+2026-04-16 22:30:53,927 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Western Digital Black 4TB'
+2026-04-16 22:30:53,927 | INFO | Saturação — CPU: 16.9% | Memória: 35.3%
+2026-04-16 22:30:54,827 | INFO | Latência de [POST /produtos] — 901ms
+2026-04-16 22:30:54,828 | INFO | POST /produtos — Pedido de 'Western Digital Black 4TB' realizado com sucesso | Total de pedidos: 40
+2026-04-16 22:30:54,831 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'TP-Link Archer TX3000E Wi-Fi 6'
+2026-04-16 22:30:54,832 | INFO | Saturação — CPU: 12.8% | Memória: 35.3%
+2026-04-16 22:30:55,056 | WARNING | Latência alta em [GET /produtos] — 1701ms (limite: 1000ms)
+2026-04-16 22:30:55,056 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:55,060 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:55,060 | INFO | Saturação — CPU: 11.5% | Memória: 35.3%
+2026-04-16 22:30:56,032 | WARNING | Latência alta em [POST /produtos] — 1201ms (limite: 1000ms)
+2026-04-16 22:30:56,032 | INFO | POST /produtos — Pedido de 'TP-Link Archer TX3000E Wi-Fi 6' realizado com sucesso | Total de pedidos: 41
+2026-04-16 22:30:56,035 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Corsair Vengeance RGB 32GB DDR5'
+2026-04-16 22:30:56,036 | INFO | Saturação — CPU: 9.5% | Memória: 35.3%
+2026-04-16 22:30:56,060 | WARNING | Latência alta em [GET /produtos] — 1001ms (limite: 1000ms)
+2026-04-16 22:30:56,060 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:56,064 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:56,064 | INFO | Saturação — CPU: 9.0% | Memória: 35.3%
+2026-04-16 22:30:56,064 | INFO | Latência de [GET /produtos] — 1ms
+2026-04-16 22:30:56,064 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:56,067 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:56,067 | INFO | Saturação — CPU: 100.0% | Memória: 35.3%
+2026-04-16 22:30:56,736 | INFO | Latência de [POST /produtos] — 701ms
+2026-04-16 22:30:56,736 | INFO | POST /produtos — Pedido de 'Corsair Vengeance RGB 32GB DDR5' realizado com sucesso | Total de pedidos: 42
+2026-04-16 22:30:56,740 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'AMD Radeon RX 7900 XTX'
+2026-04-16 22:30:56,740 | INFO | Saturação — CPU: 25.5% | Memória: 35.4%
+2026-04-16 22:30:56,868 | INFO | Latência de [GET /produtos] — 801ms
+2026-04-16 22:30:56,869 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:56,873 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:56,875 | INFO | Saturação — CPU: 23.6% | Memória: 35.4%
+2026-04-16 22:30:58,140 | WARNING | Latência alta em [POST /produtos] — 1401ms (limite: 1000ms)
+2026-04-16 22:30:58,141 | INFO | POST /produtos — Pedido de 'AMD Radeon RX 7900 XTX' realizado com sucesso | Total de pedidos: 43
+2026-04-16 22:30:58,147 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'EVGA SuperNOVA 750 G6'
+2026-04-16 22:30:58,148 | INFO | Saturação — CPU: 11.1% | Memória: 35.5%
+2026-04-16 22:30:58,675 | WARNING | Latência alta em [GET /produtos] — 1802ms (limite: 1000ms)
+2026-04-16 22:30:58,676 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:30:58,679 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:30:58,679 | INFO | Saturação — CPU: 28.3% | Memória: 35.4%
+2026-04-16 22:30:58,948 | INFO | Latência de [POST /produtos] — 801ms
+2026-04-16 22:30:58,949 | INFO | POST /produtos — Pedido de 'EVGA SuperNOVA 750 G6' realizado com sucesso | Total de pedidos: 44
+2026-04-16 22:30:58,952 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'MSI MAG B550 Tomahawk'
+2026-04-16 22:30:58,952 | INFO | Saturação — CPU: 49.7% | Memória: 35.4%
+2026-04-16 22:30:59,652 | INFO | Latência de [POST /produtos] — 701ms
+2026-04-16 22:30:59,653 | INFO | POST /produtos — Pedido de 'MSI MAG B550 Tomahawk' realizado com sucesso | Total de pedidos: 45
+2026-04-16 22:30:59,656 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'AMD Radeon RX 7900 XTX'
+2026-04-16 22:30:59,657 | INFO | Saturação — CPU: 19.3% | Memória: 35.4%
+2026-04-16 22:31:00,079 | WARNING | Latência alta em [GET /produtos] — 1401ms (limite: 1000ms)
+2026-04-16 22:31:00,080 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:31:00,083 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:31:00,083 | INFO | Saturação — CPU: 13.2% | Memória: 35.4%
+2026-04-16 22:31:00,083 | INFO | Latência de [GET /produtos] — 1ms
+2026-04-16 22:31:00,084 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:31:00,086 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:31:00,086 | INFO | Saturação — CPU: 0.0% | Memória: 35.4%
+2026-04-16 22:31:00,457 | INFO | Latência de [POST /produtos] — 801ms
+2026-04-16 22:31:00,458 | INFO | POST /produtos — Pedido de 'AMD Radeon RX 7900 XTX' realizado com sucesso | Total de pedidos: 46
+2026-04-16 22:31:00,462 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Kingston FURY Beast 16GB DDR4'
+2026-04-16 22:31:00,463 | INFO | Saturação — CPU: 18.7% | Memória: 35.4%
+2026-04-16 22:31:01,163 | INFO | Latência de [POST /produtos] — 701ms
+2026-04-16 22:31:01,163 | INFO | POST /produtos — Pedido de 'Kingston FURY Beast 16GB DDR4' realizado com sucesso | Total de pedidos: 47
+2026-04-16 22:31:01,167 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'MSI MAG B550 Tomahawk'
+2026-04-16 22:31:01,167 | INFO | Saturação — CPU: 4.3% | Memória: 35.4%
+2026-04-16 22:31:01,367 | INFO | Latência de [POST /produtos] — 201ms
+2026-04-16 22:31:01,368 | INFO | POST /produtos — Pedido de 'MSI MAG B550 Tomahawk' realizado com sucesso | Total de pedidos: 48
+2026-04-16 22:31:01,787 | WARNING | Latência alta em [GET /produtos] — 1701ms (limite: 1000ms)
+2026-04-16 22:31:01,787 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:31:01,790 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:31:01,790 | INFO | Saturação — CPU: 15.9% | Memória: 35.4%
+2026-04-16 22:31:03,791 | WARNING | Latência alta em [GET /produtos] — 2001ms (limite: 1000ms)
+2026-04-16 22:31:03,792 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:31:03,796 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:31:03,797 | INFO | Saturação — CPU: 32.2% | Memória: 35.3%
+2026-04-16 22:31:04,698 | INFO | Latência de [GET /produtos] — 901ms
+2026-04-16 22:31:04,698 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:31:04,701 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:31:04,701 | INFO | Saturação — CPU: 22.8% | Memória: 35.3%
+2026-04-16 22:31:05,802 | WARNING | Latência alta em [GET /produtos] — 1101ms (limite: 1000ms)
+2026-04-16 22:31:05,802 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:31:05,805 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:31:05,806 | INFO | Saturação — CPU: 8.7% | Memória: 35.3%
+2026-04-16 22:31:07,406 | WARNING | Latência alta em [GET /produtos] — 1601ms (limite: 1000ms)
+2026-04-16 22:31:07,406 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:31:07,410 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:31:07,410 | INFO | Saturação — CPU: 14.1% | Memória: 35.3%
+2026-04-16 22:31:09,310 | WARNING | Latência alta em [GET /produtos] — 1901ms (limite: 1000ms)
+2026-04-16 22:31:09,311 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:31:09,314 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:31:09,314 | INFO | Saturação — CPU: 32.9% | Memória: 35.3%
+2026-04-16 22:31:10,615 | WARNING | Latência alta em [GET /produtos] — 1301ms (limite: 1000ms)
+2026-04-16 22:31:10,615 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:31:10,618 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:31:10,619 | INFO | Saturação — CPU: 26.4% | Memória: 35.2%
+2026-04-16 22:31:11,319 | INFO | Latência de [GET /produtos] — 701ms
+2026-04-16 22:31:11,319 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:31:11,324 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:31:11,324 | INFO | Saturação — CPU: 23.6% | Memória: 35.2%
+2026-04-16 22:31:13,225 | WARNING | Latência alta em [GET /produtos] — 1901ms (limite: 1000ms)
+2026-04-16 22:31:13,225 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:31:13,229 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:31:13,229 | INFO | Saturação — CPU: 17.9% | Memória: 35.2%
+2026-04-16 22:31:13,329 | INFO | Latência de [GET /produtos] — 101ms
+2026-04-16 22:31:13,329 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:31:13,333 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:31:13,333 | INFO | Saturação — CPU: 19.0% | Memória: 35.2%
+2026-04-16 22:31:14,433 | WARNING | Latência alta em [GET /produtos] — 1101ms (limite: 1000ms)
+2026-04-16 22:31:14,434 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:31:14,437 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:31:14,437 | INFO | Saturação — CPU: 60.8% | Memória: 35.5%
+2026-04-16 22:31:15,038 | INFO | Latência de [GET /produtos] — 601ms
+2026-04-16 22:31:15,038 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:39:48,405 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:39:48,405 | INFO | Saturação — CPU: 0.0% | Memória: 36.8%
+2026-04-16 22:39:49,905 | WARNING | Latência alta em [GET /produtos] — 1501ms (limite: 1000ms)
+2026-04-16 22:39:49,906 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:39:49,912 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Razer BlackWidow V4 Pro'
+2026-04-16 22:39:49,912 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:39:49,912 | INFO | Saturação — CPU: 18.0% | Memória: 36.8%
+2026-04-16 22:39:49,913 | INFO | Saturação — CPU: 0.0% | Memória: 36.8%
+2026-04-16 22:39:50,113 | INFO | Latência de [POST /produtos] — 201ms
+2026-04-16 22:39:50,113 | INFO | POST /produtos — Pedido de 'Razer BlackWidow V4 Pro' realizado com sucesso | Total de pedidos: 1
+2026-04-16 22:39:50,116 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Kingston FURY Beast 16GB DDR4'
+2026-04-16 22:39:50,117 | INFO | Saturação — CPU: 5.0% | Memória: 36.8%
+2026-04-16 22:39:50,217 | INFO | Latência de [POST /produtos] — 101ms
+2026-04-16 22:39:50,218 | INFO | POST /produtos — Pedido de 'Kingston FURY Beast 16GB DDR4' realizado com sucesso | Total de pedidos: 2
+2026-04-16 22:39:50,222 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Seagate IronWolf 8TB HDD'
+2026-04-16 22:39:50,223 | INFO | Saturação — CPU: 31.8% | Memória: 36.8%
+2026-04-16 22:39:50,724 | INFO | Latência de [POST /produtos] — 502ms
+2026-04-16 22:39:50,724 | INFO | POST /produtos — Pedido de 'Seagate IronWolf 8TB HDD' realizado com sucesso | Total de pedidos: 3
+2026-04-16 22:39:50,728 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Razer BlackWidow V4 Pro'
+2026-04-16 22:39:50,728 | INFO | Saturação — CPU: 17.0% | Memória: 36.8%
+2026-04-16 22:39:50,813 | INFO | Latência de [GET /produtos] — 901ms
+2026-04-16 22:39:50,814 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:39:50,817 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:39:50,817 | INFO | Saturação — CPU: 15.1% | Memória: 36.8%
+2026-04-16 22:39:51,428 | INFO | Latência de [POST /produtos] — 701ms
+2026-04-16 22:39:51,429 | INFO | POST /produtos — Pedido de 'Razer BlackWidow V4 Pro' realizado com sucesso | Total de pedidos: 4
+2026-04-16 22:39:51,432 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Samsung 990 Pro 2TB NVMe'
+2026-04-16 22:39:51,432 | INFO | Saturação — CPU: 15.8% | Memória: 36.8%
+2026-04-16 22:39:52,033 | INFO | Latência de [POST /produtos] — 601ms
+2026-04-16 22:39:52,033 | INFO | POST /produtos — Pedido de 'Samsung 990 Pro 2TB NVMe' realizado com sucesso | Total de pedidos: 5
+2026-04-16 22:39:52,036 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'mouse'
+2026-04-16 22:39:52,036 | INFO | Saturação — CPU: 19.3% | Memória: 36.9%
+2026-04-16 22:39:52,717 | WARNING | Latência alta em [GET /produtos] — 1901ms (limite: 1000ms)
+2026-04-16 22:39:52,718 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:39:52,721 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:39:52,721 | INFO | Saturação — CPU: 13.0% | Memória: 36.9%
+2026-04-16 22:39:52,922 | INFO | Latência de [GET /produtos] — 201ms
+2026-04-16 22:39:52,922 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:39:52,925 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:39:52,925 | INFO | Saturação — CPU: 9.8% | Memória: 36.9%
+2026-04-16 22:39:53,337 | WARNING | Latência alta em [POST /produtos] — 1301ms (limite: 1000ms)
+2026-04-16 22:39:53,337 | ERROR | Erro — Produto 'mouse' não encontrado no catálogo (HTTP 400)
+2026-04-16 22:39:53,340 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Intel Core i9-14900K'
+2026-04-16 22:39:53,341 | INFO | Saturação — CPU: 14.3% | Memória: 36.9%
+2026-04-16 22:39:53,425 | INFO | Latência de [GET /produtos] — 501ms
+2026-04-16 22:39:53,426 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:39:53,429 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:39:53,429 | INFO | Saturação — CPU: 29.7% | Memória: 36.9%
+2026-04-16 22:39:54,230 | INFO | Latência de [GET /produtos] — 800ms
+2026-04-16 22:39:54,230 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:39:54,233 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:39:54,233 | INFO | Saturação — CPU: 13.1% | Memória: 36.9%
+2026-04-16 22:39:54,241 | INFO | Latência de [POST /produtos] — 901ms
+2026-04-16 22:39:54,241 | INFO | POST /produtos — Pedido de 'Intel Core i9-14900K' realizado com sucesso | Total de pedidos: 6
+2026-04-16 22:39:54,244 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'ASUS ROG Strix Z790-E'
+2026-04-16 22:39:54,244 | INFO | Saturação — CPU: 12.7% | Memória: 36.9%
+2026-04-16 22:39:55,334 | WARNING | Latência alta em [GET /produtos] — 1101ms (limite: 1000ms)
+2026-04-16 22:39:55,334 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:39:55,337 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:39:55,337 | INFO | Saturação — CPU: 15.5% | Memória: 36.9%
+2026-04-16 22:39:55,744 | WARNING | Latência alta em [POST /produtos] — 1501ms (limite: 1000ms)
+2026-04-16 22:39:55,745 | INFO | POST /produtos — Pedido de 'ASUS ROG Strix Z790-E' realizado com sucesso | Total de pedidos: 7
+2026-04-16 22:39:55,750 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Corsair RM1000x 1000W'
+2026-04-16 22:39:55,751 | INFO | Saturação — CPU: 28.6% | Memória: 36.9%
+2026-04-16 22:39:56,237 | INFO | Latência de [GET /produtos] — 901ms
+2026-04-16 22:39:56,238 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:39:56,241 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:39:56,241 | INFO | Saturação — CPU: 46.6% | Memória: 36.9%
+2026-04-16 22:39:56,451 | INFO | Latência de [POST /produtos] — 701ms
+2026-04-16 22:39:56,451 | INFO | POST /produtos — Pedido de 'Corsair RM1000x 1000W' realizado com sucesso | Total de pedidos: 8
+2026-04-16 22:39:56,455 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'MSI MAG B550 Tomahawk'
+2026-04-16 22:39:56,455 | INFO | Saturação — CPU: 28.8% | Memória: 36.9%
+2026-04-16 22:39:56,555 | INFO | Latência de [POST /produtos] — 101ms
+2026-04-16 22:39:56,555 | INFO | POST /produtos — Pedido de 'MSI MAG B550 Tomahawk' realizado com sucesso | Total de pedidos: 9
+2026-04-16 22:39:56,559 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'mouse'
+2026-04-16 22:39:56,559 | INFO | Saturação — CPU: 13.6% | Memória: 36.9%
+2026-04-16 22:39:57,959 | WARNING | Latência alta em [POST /produtos] — 1401ms (limite: 1000ms)
+2026-04-16 22:39:57,960 | ERROR | Erro — Produto 'mouse' não encontrado no catálogo (HTTP 400)
+2026-04-16 22:39:57,963 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'mouse'
+2026-04-16 22:39:57,963 | INFO | Saturação — CPU: 6.1% | Memória: 36.9%
+2026-04-16 22:39:58,041 | WARNING | Latência alta em [GET /produtos] — 1801ms (limite: 1000ms)
+2026-04-16 22:39:58,042 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:39:58,045 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:39:58,045 | INFO | Saturação — CPU: 8.4% | Memória: 36.9%
+2026-04-16 22:39:58,646 | INFO | Latência de [GET /produtos] — 601ms
+2026-04-16 22:39:58,646 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:39:58,649 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:39:58,649 | INFO | Saturação — CPU: 15.0% | Memória: 36.9%
+2026-04-16 22:39:58,850 | INFO | Latência de [GET /produtos] — 201ms
+2026-04-16 22:39:58,850 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:39:58,854 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:39:58,854 | INFO | Saturação — CPU: 26.8% | Memória: 36.9%
+2026-04-16 22:39:58,963 | WARNING | Latência alta em [POST /produtos] — 1001ms (limite: 1000ms)
+2026-04-16 22:39:58,964 | ERROR | Erro — Produto 'mouse' não encontrado no catálogo (HTTP 400)
+2026-04-16 22:39:58,967 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Cooler Master TD500 Mesh'
+2026-04-16 22:39:58,967 | INFO | Saturação — CPU: 16.4% | Memória: 36.9%
+2026-04-16 22:39:59,167 | INFO | Latência de [POST /produtos] — 201ms
+2026-04-16 22:39:59,168 | INFO | POST /produtos — Pedido de 'Cooler Master TD500 Mesh' realizado com sucesso | Total de pedidos: 10
+2026-04-16 22:39:59,173 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Western Digital Black 4TB'
+2026-04-16 22:39:59,173 | INFO | Saturação — CPU: 29.3% | Memória: 36.9%
+2026-04-16 22:39:59,774 | INFO | Latência de [POST /produtos] — 601ms
+2026-04-16 22:39:59,774 | INFO | POST /produtos — Pedido de 'Western Digital Black 4TB' realizado com sucesso | Total de pedidos: 11
+2026-04-16 22:39:59,778 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Crucial P3 1TB M.2'
+2026-04-16 22:39:59,778 | INFO | Saturação — CPU: 28.6% | Memória: 37.0%
+2026-04-16 22:40:00,754 | WARNING | Latência alta em [GET /produtos] — 1901ms (limite: 1000ms)
+2026-04-16 22:40:00,755 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:00,761 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:00,762 | INFO | Saturação — CPU: 26.1% | Memória: 37.0%
+2026-04-16 22:40:00,978 | WARNING | Latência alta em [POST /produtos] — 1201ms (limite: 1000ms)
+2026-04-16 22:40:00,979 | INFO | POST /produtos — Pedido de 'Crucial P3 1TB M.2' realizado com sucesso | Total de pedidos: 12
+2026-04-16 22:40:00,982 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Intel Core i9-14900K'
+2026-04-16 22:40:00,982 | INFO | Saturação — CPU: 32.2% | Memória: 37.0%
+2026-04-16 22:40:01,763 | WARNING | Latência alta em [GET /produtos] — 1002ms (limite: 1000ms)
+2026-04-16 22:40:01,763 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:01,766 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:01,767 | INFO | Saturação — CPU: 34.8% | Memória: 37.0%
+2026-04-16 22:40:02,482 | WARNING | Latência alta em [POST /produtos] — 1501ms (limite: 1000ms)
+2026-04-16 22:40:02,483 | INFO | POST /produtos — Pedido de 'Intel Core i9-14900K' realizado com sucesso | Total de pedidos: 13
+2026-04-16 22:40:02,486 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Seagate IronWolf 8TB HDD'
+2026-04-16 22:40:02,486 | INFO | Saturação — CPU: 23.5% | Memória: 36.8%
+2026-04-16 22:40:02,486 | INFO | Latência de [POST /produtos] — 1ms
+2026-04-16 22:40:02,486 | INFO | POST /produtos — Pedido de 'Seagate IronWolf 8TB HDD' realizado com sucesso | Total de pedidos: 14
+2026-04-16 22:40:02,489 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Crucial P3 1TB M.2'
+2026-04-16 22:40:02,489 | INFO | Saturação — CPU: 100.0% | Memória: 36.8%
+2026-04-16 22:40:02,667 | INFO | Latência de [GET /produtos] — 901ms
+2026-04-16 22:40:02,667 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:02,670 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:02,671 | INFO | Saturação — CPU: 17.2% | Memória: 36.8%
+2026-04-16 22:40:02,671 | INFO | Latência de [GET /produtos] — 1ms
+2026-04-16 22:40:02,671 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:02,673 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:02,674 | INFO | Saturação — CPU: 100.0% | Memória: 36.8%
+2026-04-16 22:40:03,774 | WARNING | Latência alta em [GET /produtos] — 1101ms (limite: 1000ms)
+2026-04-16 22:40:03,774 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:03,777 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:03,778 | INFO | Saturação — CPU: 12.8% | Memória: 36.8%
+2026-04-16 22:40:03,989 | WARNING | Latência alta em [POST /produtos] — 1501ms (limite: 1000ms)
+2026-04-16 22:40:03,989 | INFO | POST /produtos — Pedido de 'Crucial P3 1TB M.2' realizado com sucesso | Total de pedidos: 15
+2026-04-16 22:40:03,993 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Be Quiet! Silent Wings 4'
+2026-04-16 22:40:03,993 | INFO | Saturação — CPU: 11.4% | Memória: 36.8%
+2026-04-16 22:40:04,093 | INFO | Latência de [POST /produtos] — 101ms
+2026-04-16 22:40:04,093 | INFO | POST /produtos — Pedido de 'Be Quiet! Silent Wings 4' realizado com sucesso | Total de pedidos: 16
+2026-04-16 22:40:04,096 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Seagate IronWolf 8TB HDD'
+2026-04-16 22:40:04,097 | INFO | Saturação — CPU: 23.8% | Memória: 36.8%
+2026-04-16 22:40:04,997 | INFO | Latência de [POST /produtos] — 901ms
+2026-04-16 22:40:04,997 | INFO | POST /produtos — Pedido de 'Seagate IronWolf 8TB HDD' realizado com sucesso | Total de pedidos: 17
+2026-04-16 22:40:05,000 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'MSI MAG B550 Tomahawk'
+2026-04-16 22:40:05,001 | INFO | Saturação — CPU: 21.7% | Memória: 36.9%
+2026-04-16 22:40:05,701 | INFO | Latência de [POST /produtos] — 701ms
+2026-04-16 22:40:05,701 | INFO | POST /produtos — Pedido de 'MSI MAG B550 Tomahawk' realizado com sucesso | Total de pedidos: 18
+2026-04-16 22:40:05,706 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Seagate IronWolf 8TB HDD'
+2026-04-16 22:40:05,707 | INFO | Saturação — CPU: 25.7% | Memória: 36.9%
+2026-04-16 22:40:05,778 | WARNING | Latência alta em [GET /produtos] — 2001ms (limite: 1000ms)
+2026-04-16 22:40:05,778 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:05,785 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:05,785 | INFO | Saturação — CPU: 23.6% | Memória: 36.9%
+2026-04-16 22:40:06,086 | INFO | Latência de [GET /produtos] — 301ms
+2026-04-16 22:40:06,086 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:06,089 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:06,090 | INFO | Saturação — CPU: 62.3% | Memória: 36.9%
+2026-04-16 22:40:07,107 | WARNING | Latência alta em [POST /produtos] — 1401ms (limite: 1000ms)
+2026-04-16 22:40:07,108 | INFO | POST /produtos — Pedido de 'Seagate IronWolf 8TB HDD' realizado com sucesso | Total de pedidos: 19
+2026-04-16 22:40:07,111 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'DeepCool AK620'
+2026-04-16 22:40:07,112 | INFO | Saturação — CPU: 27.1% | Memória: 36.9%
+2026-04-16 22:40:07,693 | WARNING | Latência alta em [GET /produtos] — 1603ms (limite: 1000ms)
+2026-04-16 22:40:07,695 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:07,700 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:07,700 | INFO | Saturação — CPU: 12.5% | Memória: 36.8%
+2026-04-16 22:40:07,712 | INFO | Latência de [POST /produtos] — 601ms
+2026-04-16 22:40:07,712 | INFO | POST /produtos — Pedido de 'DeepCool AK620' realizado com sucesso | Total de pedidos: 20
+2026-04-16 22:40:07,715 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Crucial P3 1TB M.2'
+2026-04-16 22:40:07,715 | INFO | Saturação — CPU: 12.7% | Memória: 36.8%
+2026-04-16 22:40:08,301 | INFO | Latência de [GET /produtos] — 601ms
+2026-04-16 22:40:08,301 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:08,306 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:08,307 | INFO | Saturação — CPU: 5.0% | Memória: 36.8%
+2026-04-16 22:40:09,215 | WARNING | Latência alta em [POST /produtos] — 1501ms (limite: 1000ms)
+2026-04-16 22:40:09,216 | INFO | POST /produtos — Pedido de 'Crucial P3 1TB M.2' realizado com sucesso | Total de pedidos: 21
+2026-04-16 22:40:09,219 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Corsair RM1000x 1000W'
+2026-04-16 22:40:09,219 | INFO | Saturação — CPU: 6.7% | Memória: 36.8%
+2026-04-16 22:40:09,907 | WARNING | Latência alta em [GET /produtos] — 1601ms (limite: 1000ms)
+2026-04-16 22:40:09,908 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:09,915 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:09,916 | INFO | Saturação — CPU: 17.1% | Memória: 36.9%
+2026-04-16 22:40:10,420 | WARNING | Latência alta em [POST /produtos] — 1201ms (limite: 1000ms)
+2026-04-16 22:40:10,420 | INFO | POST /produtos — Pedido de 'Corsair RM1000x 1000W' realizado com sucesso | Total de pedidos: 22
+2026-04-16 22:40:10,423 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'NVIDIA RTX 4090'
+2026-04-16 22:40:10,424 | INFO | Saturação — CPU: 23.0% | Memória: 36.9%
+2026-04-16 22:40:11,116 | WARNING | Latência alta em [GET /produtos] — 1202ms (limite: 1000ms)
+2026-04-16 22:40:11,117 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:11,120 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:11,120 | INFO | Saturação — CPU: 9.7% | Memória: 36.9%
+2026-04-16 22:40:11,120 | INFO | Latência de [GET /produtos] — 1ms
+2026-04-16 22:40:11,120 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:11,123 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:11,123 | INFO | Saturação — CPU: 100.0% | Memória: 36.9%
+2026-04-16 22:40:11,424 | INFO | Latência de [GET /produtos] — 301ms
+2026-04-16 22:40:11,424 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:11,427 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:11,428 | INFO | Saturação — CPU: 15.0% | Memória: 36.9%
+2026-04-16 22:40:11,624 | WARNING | Latência alta em [POST /produtos] — 1201ms (limite: 1000ms)
+2026-04-16 22:40:11,624 | INFO | POST /produtos — Pedido de 'NVIDIA RTX 4090' realizado com sucesso | Total de pedidos: 23
+2026-04-16 22:40:11,627 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'EVGA SuperNOVA 750 G6'
+2026-04-16 22:40:11,628 | INFO | Saturação — CPU: 7.9% | Memória: 36.9%
+2026-04-16 22:40:12,128 | INFO | Latência de [POST /produtos] — 501ms
+2026-04-16 22:40:12,128 | INFO | POST /produtos — Pedido de 'EVGA SuperNOVA 750 G6' realizado com sucesso | Total de pedidos: 24
+2026-04-16 22:40:12,135 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Lian Li PC-O11 Dynamic'
+2026-04-16 22:40:12,136 | INFO | Saturação — CPU: 37.6% | Memória: 37.0%
+2026-04-16 22:40:12,837 | INFO | Latência de [POST /produtos] — 701ms
+2026-04-16 22:40:12,837 | INFO | POST /produtos — Pedido de 'Lian Li PC-O11 Dynamic' realizado com sucesso | Total de pedidos: 25
+2026-04-16 22:40:12,840 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Crucial P3 1TB M.2'
+2026-04-16 22:40:12,841 | INFO | Saturação — CPU: 4.3% | Memória: 37.0%
+2026-04-16 22:40:13,328 | WARNING | Latência alta em [GET /produtos] — 1901ms (limite: 1000ms)
+2026-04-16 22:40:13,328 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:13,331 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:13,332 | INFO | Saturação — CPU: 13.2% | Memória: 37.0%
+2026-04-16 22:40:13,432 | INFO | Latência de [GET /produtos] — 101ms
+2026-04-16 22:40:13,432 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:13,435 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:13,435 | INFO | Saturação — CPU: 50.0% | Memória: 37.0%
+2026-04-16 22:40:13,441 | INFO | Latência de [POST /produtos] — 601ms
+2026-04-16 22:40:13,441 | INFO | POST /produtos — Pedido de 'Crucial P3 1TB M.2' realizado com sucesso | Total de pedidos: 26
+2026-04-16 22:40:13,444 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'EVGA SuperNOVA 750 G6'
+2026-04-16 22:40:13,444 | INFO | Saturação — CPU: 13.3% | Memória: 37.0%
+2026-04-16 22:40:13,836 | INFO | Latência de [GET /produtos] — 401ms
+2026-04-16 22:40:13,836 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:13,840 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:13,840 | INFO | Saturação — CPU: 12.3% | Memória: 37.0%
+2026-04-16 22:40:14,341 | INFO | Latência de [GET /produtos] — 501ms
+2026-04-16 22:40:14,341 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:14,344 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:14,344 | INFO | Latência de [POST /produtos] — 901ms
+2026-04-16 22:40:14,344 | INFO | POST /produtos — Pedido de 'EVGA SuperNOVA 750 G6' realizado com sucesso | Total de pedidos: 27
+2026-04-16 22:40:14,345 | INFO | Saturação — CPU: 21.2% | Memória: 37.0%
+2026-04-16 22:40:14,348 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'EVGA SuperNOVA 750 G6'
+2026-04-16 22:40:14,348 | INFO | Saturação — CPU: 17.3% | Memória: 37.0%
+2026-04-16 22:40:15,646 | WARNING | Latência alta em [GET /produtos] — 1302ms (limite: 1000ms)
+2026-04-16 22:40:15,646 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:15,649 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:15,650 | INFO | Saturação — CPU: 14.3% | Memória: 36.8%
+2026-04-16 22:40:15,749 | WARNING | Latência alta em [POST /produtos] — 1400ms (limite: 1000ms)
+2026-04-16 22:40:15,749 | INFO | POST /produtos — Pedido de 'EVGA SuperNOVA 750 G6' realizado com sucesso | Total de pedidos: 28
+2026-04-16 22:40:15,752 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'TP-Link Archer TX3000E Wi-Fi 6'
+2026-04-16 22:40:15,752 | INFO | Saturação — CPU: 15.1% | Memória: 36.8%
+2026-04-16 22:40:16,153 | INFO | Latência de [POST /produtos] — 401ms
+2026-04-16 22:40:16,153 | INFO | POST /produtos — Pedido de 'TP-Link Archer TX3000E Wi-Fi 6' realizado com sucesso | Total de pedidos: 29
+2026-04-16 22:40:16,158 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'TP-Link Archer TX3000E Wi-Fi 6'
+2026-04-16 22:40:16,159 | INFO | Saturação — CPU: 81.0% | Memória: 36.8%
+2026-04-16 22:40:17,061 | INFO | Latência de [POST /produtos] — 902ms
+2026-04-16 22:40:17,061 | INFO | POST /produtos — Pedido de 'TP-Link Archer TX3000E Wi-Fi 6' realizado com sucesso | Total de pedidos: 30
+2026-04-16 22:40:17,064 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Noctua NH-D15'
+2026-04-16 22:40:17,065 | INFO | Saturação — CPU: 18.3% | Memória: 36.7%
+2026-04-16 22:40:17,450 | WARNING | Latência alta em [GET /produtos] — 1801ms (limite: 1000ms)
+2026-04-16 22:40:17,450 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:17,453 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:17,454 | INFO | Saturação — CPU: 29.7% | Memória: 36.7%
+2026-04-16 22:40:17,865 | INFO | Latência de [POST /produtos] — 801ms
+2026-04-16 22:40:17,865 | INFO | POST /produtos — Pedido de 'Noctua NH-D15' realizado com sucesso | Total de pedidos: 31
+2026-04-16 22:40:17,869 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'NZXT Kraken Elite 360'
+2026-04-16 22:40:17,869 | INFO | Saturação — CPU: 5.0% | Memória: 36.7%
+2026-04-16 22:40:17,970 | INFO | Latência de [POST /produtos] — 101ms
+2026-04-16 22:40:17,970 | INFO | POST /produtos — Pedido de 'NZXT Kraken Elite 360' realizado com sucesso | Total de pedidos: 32
+2026-04-16 22:40:17,973 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'EVGA SuperNOVA 750 G6'
+2026-04-16 22:40:17,973 | INFO | Saturação — CPU: 0.0% | Memória: 36.7%
+2026-04-16 22:40:18,454 | WARNING | Latência alta em [GET /produtos] — 1001ms (limite: 1000ms)
+2026-04-16 22:40:18,454 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:18,463 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:18,465 | INFO | Saturação — CPU: 14.1% | Memória: 36.7%
+2026-04-16 22:40:18,574 | INFO | Latência de [POST /produtos] — 601ms
+2026-04-16 22:40:18,574 | INFO | POST /produtos — Pedido de 'EVGA SuperNOVA 750 G6' realizado com sucesso | Total de pedidos: 33
+2026-04-16 22:40:18,577 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'mouse'
+2026-04-16 22:40:18,577 | INFO | Saturação — CPU: 21.7% | Memória: 36.7%
+2026-04-16 22:40:18,865 | INFO | Latência de [GET /produtos] — 402ms
+2026-04-16 22:40:18,866 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:18,869 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:18,870 | INFO | Saturação — CPU: 10.0% | Memória: 36.7%
+2026-04-16 22:40:19,878 | WARNING | Latência alta em [POST /produtos] — 1301ms (limite: 1000ms)
+2026-04-16 22:40:19,878 | ERROR | Erro — Produto 'mouse' não encontrado no catálogo (HTTP 400)
+2026-04-16 22:40:19,881 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'NVIDIA RTX 4090'
+2026-04-16 22:40:19,881 | INFO | Saturação — CPU: 15.1% | Memória: 36.7%
+2026-04-16 22:40:20,082 | INFO | Latência de [POST /produtos] — 201ms
+2026-04-16 22:40:20,083 | INFO | POST /produtos — Pedido de 'NVIDIA RTX 4090' realizado com sucesso | Total de pedidos: 34
+2026-04-16 22:40:20,094 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'TP-Link Archer TX3000E Wi-Fi 6'
+2026-04-16 22:40:20,095 | INFO | Saturação — CPU: 21.4% | Memória: 36.8%
+2026-04-16 22:40:20,097 | INFO | Latência de [POST /produtos] — 3ms
+2026-04-16 22:40:20,098 | INFO | POST /produtos — Pedido de 'TP-Link Archer TX3000E Wi-Fi 6' realizado com sucesso | Total de pedidos: 35
+2026-04-16 22:40:20,104 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Samsung 990 Pro 2TB NVMe'
+2026-04-16 22:40:20,105 | INFO | Saturação — CPU: 100.0% | Memória: 36.7%
+2026-04-16 22:40:20,770 | WARNING | Latência alta em [GET /produtos] — 1901ms (limite: 1000ms)
+2026-04-16 22:40:20,770 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:20,773 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:20,774 | INFO | Saturação — CPU: 18.3% | Memória: 36.8%
+2026-04-16 22:40:21,407 | WARNING | Latência alta em [POST /produtos] — 1302ms (limite: 1000ms)
+2026-04-16 22:40:21,407 | INFO | POST /produtos — Pedido de 'Samsung 990 Pro 2TB NVMe' realizado com sucesso | Total de pedidos: 36
+2026-04-16 22:40:21,410 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Arctic MX-6 (Pasta Térmica)'
+2026-04-16 22:40:21,410 | INFO | Saturação — CPU: 15.4% | Memória: 36.8%
+2026-04-16 22:40:21,774 | WARNING | Latência alta em [GET /produtos] — 1001ms (limite: 1000ms)
+2026-04-16 22:40:21,774 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:21,777 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:21,778 | INFO | Saturação — CPU: 13.9% | Memória: 36.8%
+2026-04-16 22:40:22,178 | INFO | Latência de [GET /produtos] — 401ms
+2026-04-16 22:40:22,180 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:22,189 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:22,189 | INFO | Saturação — CPU: 16.9% | Memória: 36.8%
+2026-04-16 22:40:22,511 | WARNING | Latência alta em [POST /produtos] — 1101ms (limite: 1000ms)
+2026-04-16 22:40:22,511 | INFO | POST /produtos — Pedido de 'Arctic MX-6 (Pasta Térmica)' realizado com sucesso | Total de pedidos: 37
+2026-04-16 22:40:22,514 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Samsung 990 Pro 2TB NVMe'
+2026-04-16 22:40:22,514 | INFO | Saturação — CPU: 23.6% | Memória: 36.9%
+2026-04-16 22:40:22,890 | INFO | Latência de [GET /produtos] — 701ms
+2026-04-16 22:40:22,891 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:22,894 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:22,894 | INFO | Saturação — CPU: 20.9% | Memória: 36.9%
+2026-04-16 22:40:23,215 | INFO | Latência de [POST /produtos] — 701ms
+2026-04-16 22:40:23,215 | INFO | POST /produtos — Pedido de 'Samsung 990 Pro 2TB NVMe' realizado com sucesso | Total de pedidos: 38
+2026-04-16 22:40:23,218 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'DeepCool AK620'
+2026-04-16 22:40:23,218 | INFO | Saturação — CPU: 5.8% | Memória: 36.9%
+2026-04-16 22:40:23,494 | INFO | Latência de [GET /produtos] — 601ms
+2026-04-16 22:40:23,497 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:23,501 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:23,501 | INFO | Saturação — CPU: 11.6% | Memória: 36.9%
+2026-04-16 22:40:23,801 | INFO | Latência de [GET /produtos] — 301ms
+2026-04-16 22:40:23,802 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:23,805 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:23,805 | INFO | Saturação — CPU: 18.0% | Memória: 36.9%
+2026-04-16 22:40:24,019 | INFO | Latência de [POST /produtos] — 801ms
+2026-04-16 22:40:24,019 | INFO | POST /produtos — Pedido de 'DeepCool AK620' realizado com sucesso | Total de pedidos: 39
+2026-04-16 22:40:24,022 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Be Quiet! Silent Wings 4'
+2026-04-16 22:40:24,022 | INFO | Saturação — CPU: 13.7% | Memória: 36.9%
+2026-04-16 22:40:24,523 | INFO | Latência de [POST /produtos] — 501ms
+2026-04-16 22:40:24,523 | INFO | POST /produtos — Pedido de 'Be Quiet! Silent Wings 4' realizado com sucesso | Total de pedidos: 40
+2026-04-16 22:40:24,526 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'ASUS ROG Strix Z790-E'
+2026-04-16 22:40:24,526 | INFO | Saturação — CPU: 34.0% | Memória: 36.9%
+2026-04-16 22:40:25,127 | INFO | Latência de [POST /produtos] — 601ms
+2026-04-16 22:40:25,127 | INFO | POST /produtos — Pedido de 'ASUS ROG Strix Z790-E' realizado com sucesso | Total de pedidos: 41
+2026-04-16 22:40:25,130 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Seagate IronWolf 8TB HDD'
+2026-04-16 22:40:25,130 | INFO | Saturação — CPU: 4.1% | Memória: 36.9%
+2026-04-16 22:40:25,505 | WARNING | Latência alta em [GET /produtos] — 1701ms (limite: 1000ms)
+2026-04-16 22:40:25,506 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:25,509 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:25,509 | INFO | Saturação — CPU: 15.4% | Memória: 36.9%
+2026-04-16 22:40:25,631 | INFO | Latência de [POST /produtos] — 501ms
+2026-04-16 22:40:25,631 | INFO | POST /produtos — Pedido de 'Seagate IronWolf 8TB HDD' realizado com sucesso | Total de pedidos: 42
+2026-04-16 22:40:25,634 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Crucial P3 1TB M.2'
+2026-04-16 22:40:25,634 | INFO | Saturação — CPU: 13.0% | Memória: 36.9%
+2026-04-16 22:40:25,634 | INFO | Latência de [POST /produtos] — 1ms
+2026-04-16 22:40:25,635 | INFO | POST /produtos — Pedido de 'Crucial P3 1TB M.2' realizado com sucesso | Total de pedidos: 43
+2026-04-16 22:40:25,639 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Intel Core i9-14900K'
+2026-04-16 22:40:25,640 | INFO | Saturação — CPU: 100.0% | Memória: 36.9%
+2026-04-16 22:40:26,009 | INFO | Latência de [GET /produtos] — 501ms
+2026-04-16 22:40:26,010 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:26,013 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:26,013 | INFO | Saturação — CPU: 10.0% | Memória: 36.9%
+2026-04-16 22:40:26,540 | INFO | Latência de [POST /produtos] — 901ms
+2026-04-16 22:40:26,540 | INFO | POST /produtos — Pedido de 'Intel Core i9-14900K' realizado com sucesso | Total de pedidos: 44
+2026-04-16 22:40:26,544 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Corsair RM1000x 1000W'
+2026-04-16 22:40:26,544 | INFO | Saturação — CPU: 23.2% | Memória: 37.0%
+2026-04-16 22:40:26,544 | INFO | Latência de [POST /produtos] — 1ms
+2026-04-16 22:40:26,544 | INFO | POST /produtos — Pedido de 'Corsair RM1000x 1000W' realizado com sucesso | Total de pedidos: 45
+2026-04-16 22:40:26,547 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Corsair RM1000x 1000W'
+2026-04-16 22:40:26,548 | INFO | Saturação — CPU: 100.0% | Memória: 37.0%
+2026-04-16 22:40:26,613 | INFO | Latência de [GET /produtos] — 601ms
+2026-04-16 22:40:26,614 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:26,617 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:26,617 | INFO | Saturação — CPU: 30.5% | Memória: 37.0%
+2026-04-16 22:40:28,048 | WARNING | Latência alta em [POST /produtos] — 1501ms (limite: 1000ms)
+2026-04-16 22:40:28,048 | INFO | POST /produtos — Pedido de 'Corsair RM1000x 1000W' realizado com sucesso | Total de pedidos: 46
+2026-04-16 22:40:28,418 | WARNING | Latência alta em [GET /produtos] — 1801ms (limite: 1000ms)
+2026-04-16 22:40:28,418 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:28,433 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:28,434 | INFO | Saturação — CPU: 21.1% | Memória: 36.9%
+2026-04-16 22:40:29,434 | WARNING | Latência alta em [GET /produtos] — 1001ms (limite: 1000ms)
+2026-04-16 22:40:29,435 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:29,442 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:29,443 | INFO | Saturação — CPU: 25.4% | Memória: 37.0%
+2026-04-16 22:40:30,743 | WARNING | Latência alta em [GET /produtos] — 1301ms (limite: 1000ms)
+2026-04-16 22:40:30,744 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:30,747 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:30,747 | INFO | Saturação — CPU: 10.4% | Memória: 37.0%
+2026-04-16 22:40:32,147 | WARNING | Latência alta em [GET /produtos] — 1401ms (limite: 1000ms)
+2026-04-16 22:40:32,148 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:32,151 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:32,152 | INFO | Saturação — CPU: 10.8% | Memória: 36.9%
+2026-04-16 22:40:33,052 | INFO | Latência de [GET /produtos] — 901ms
+2026-04-16 22:40:33,052 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:33,057 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:33,058 | INFO | Saturação — CPU: 30.2% | Memória: 36.8%
+2026-04-16 22:40:34,958 | WARNING | Latência alta em [GET /produtos] — 1901ms (limite: 1000ms)
+2026-04-16 22:40:34,958 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:34,962 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:34,962 | INFO | Saturação — CPU: 28.6% | Memória: 36.9%
+2026-04-16 22:40:35,762 | INFO | Latência de [GET /produtos] — 801ms
+2026-04-16 22:40:35,763 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:35,767 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:35,767 | INFO | Saturação — CPU: 7.5% | Memória: 36.9%
+2026-04-16 22:40:35,767 | INFO | Latência de [GET /produtos] — 1ms
+2026-04-16 22:40:35,767 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:35,770 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:35,770 | INFO | Saturação — CPU: 0.0% | Memória: 36.9%
+2026-04-16 22:40:35,771 | INFO | Latência de [GET /produtos] — 1ms
+2026-04-16 22:40:35,771 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:40:35,774 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:40:35,775 | INFO | Saturação — CPU: 100.0% | Memória: 36.9%
+2026-04-16 22:40:35,875 | INFO | Latência de [GET /produtos] — 101ms
+2026-04-16 22:40:35,875 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:17,138 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:17,138 | INFO | Saturação — CPU: 0.0% | Memória: 36.8%
+2026-04-16 22:59:17,139 | INFO | Latência de [GET /produtos] — 1ms
+2026-04-16 22:59:17,139 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:17,144 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:17,145 | INFO | Saturação — CPU: 0.0% | Memória: 36.8%
+2026-04-16 22:59:17,145 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'NZXT Kraken Elite 360'
+2026-04-16 22:59:17,145 | INFO | Saturação — CPU: 0.0% | Memória: 36.8%
+2026-04-16 22:59:17,345 | INFO | Latência de [POST /produtos] — 201ms
+2026-04-16 22:59:17,346 | INFO | POST /produtos — Pedido de 'NZXT Kraken Elite 360' realizado com sucesso | Total de pedidos: 1
+2026-04-16 22:59:17,349 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Noctua NH-D15'
+2026-04-16 22:59:17,349 | INFO | Saturação — CPU: 10.0% | Memória: 36.8%
+2026-04-16 22:59:17,545 | INFO | Latência de [GET /produtos] — 401ms
+2026-04-16 22:59:17,545 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:17,548 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:17,549 | INFO | Saturação — CPU: 10.0% | Memória: 36.8%
+2026-04-16 22:59:18,350 | WARNING | Latência alta em [POST /produtos] — 1001ms (limite: 1000ms)
+2026-04-16 22:59:18,350 | INFO | POST /produtos — Pedido de 'Noctua NH-D15' realizado com sucesso | Total de pedidos: 2
+2026-04-16 22:59:18,354 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Be Quiet! Silent Wings 4'
+2026-04-16 22:59:18,355 | INFO | Saturação — CPU: 26.9% | Memória: 36.8%
+2026-04-16 22:59:18,849 | WARNING | Latência alta em [GET /produtos] — 1301ms (limite: 1000ms)
+2026-04-16 22:59:18,849 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:18,853 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:18,853 | INFO | Saturação — CPU: 22.7% | Memória: 36.8%
+2026-04-16 22:59:18,855 | INFO | Latência de [POST /produtos] — 501ms
+2026-04-16 22:59:18,855 | INFO | POST /produtos — Pedido de 'Be Quiet! Silent Wings 4' realizado com sucesso | Total de pedidos: 3
+2026-04-16 22:59:18,858 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'DeepCool AK620'
+2026-04-16 22:59:18,859 | INFO | Saturação — CPU: 10.0% | Memória: 36.8%
+2026-04-16 22:59:19,159 | INFO | Latência de [POST /produtos] — 301ms
+2026-04-16 22:59:19,159 | INFO | POST /produtos — Pedido de 'DeepCool AK620' realizado com sucesso | Total de pedidos: 4
+2026-04-16 22:59:19,162 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'NZXT Kraken Elite 360'
+2026-04-16 22:59:19,163 | INFO | Saturação — CPU: 16.4% | Memória: 36.8%
+2026-04-16 22:59:20,663 | WARNING | Latência alta em [POST /produtos] — 1501ms (limite: 1000ms)
+2026-04-16 22:59:20,663 | INFO | POST /produtos — Pedido de 'NZXT Kraken Elite 360' realizado com sucesso | Total de pedidos: 5
+2026-04-16 22:59:20,668 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Be Quiet! Silent Wings 4'
+2026-04-16 22:59:20,669 | INFO | Saturação — CPU: 31.9% | Memória: 36.8%
+2026-04-16 22:59:20,753 | WARNING | Latência alta em [GET /produtos] — 1901ms (limite: 1000ms)
+2026-04-16 22:59:20,754 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:20,759 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:20,759 | INFO | Saturação — CPU: 31.8% | Memória: 36.8%
+2026-04-16 22:59:21,469 | INFO | Latência de [POST /produtos] — 801ms
+2026-04-16 22:59:21,470 | INFO | POST /produtos — Pedido de 'Be Quiet! Silent Wings 4' realizado com sucesso | Total de pedidos: 6
+2026-04-16 22:59:21,473 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'EVGA SuperNOVA 750 G6'
+2026-04-16 22:59:21,473 | INFO | Saturação — CPU: 28.3% | Memória: 36.8%
+2026-04-16 22:59:21,574 | INFO | Latência de [POST /produtos] — 101ms
+2026-04-16 22:59:21,574 | INFO | POST /produtos — Pedido de 'EVGA SuperNOVA 750 G6' realizado com sucesso | Total de pedidos: 7
+2026-04-16 22:59:21,581 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Crucial P3 1TB M.2'
+2026-04-16 22:59:21,581 | INFO | Saturação — CPU: 19.0% | Memória: 36.8%
+2026-04-16 22:59:22,362 | WARNING | Latência alta em [GET /produtos] — 1603ms (limite: 1000ms)
+2026-04-16 22:59:22,362 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:22,365 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:22,366 | INFO | Saturação — CPU: 23.8% | Memória: 36.7%
+2026-04-16 22:59:22,366 | INFO | Latência de [GET /produtos] — 1ms
+2026-04-16 22:59:22,366 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:22,369 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:22,369 | INFO | Saturação — CPU: 100.0% | Memória: 36.7%
+2026-04-16 22:59:22,683 | WARNING | Latência alta em [POST /produtos] — 1102ms (limite: 1000ms)
+2026-04-16 22:59:22,683 | INFO | POST /produtos — Pedido de 'Crucial P3 1TB M.2' realizado com sucesso | Total de pedidos: 8
+2026-04-16 22:59:22,686 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Crucial P3 1TB M.2'
+2026-04-16 22:59:22,686 | INFO | Saturação — CPU: 20.9% | Memória: 36.7%
+2026-04-16 22:59:22,787 | INFO | Latência de [POST /produtos] — 101ms
+2026-04-16 22:59:22,787 | INFO | POST /produtos — Pedido de 'Crucial P3 1TB M.2' realizado com sucesso | Total de pedidos: 9
+2026-04-16 22:59:22,790 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Gigabyte B650 AORUS Elite'
+2026-04-16 22:59:22,790 | INFO | Saturação — CPU: 13.6% | Memória: 36.7%
+2026-04-16 22:59:22,791 | INFO | Latência de [POST /produtos] — 1ms
+2026-04-16 22:59:22,791 | INFO | POST /produtos — Pedido de 'Gigabyte B650 AORUS Elite' realizado com sucesso | Total de pedidos: 10
+2026-04-16 22:59:22,793 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Intel Core i9-14900K'
+2026-04-16 22:59:22,794 | INFO | Saturação — CPU: 0.0% | Memória: 36.7%
+2026-04-16 22:59:23,669 | WARNING | Latência alta em [GET /produtos] — 1301ms (limite: 1000ms)
+2026-04-16 22:59:23,669 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:23,673 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:23,673 | INFO | Saturação — CPU: 13.1% | Memória: 36.8%
+2026-04-16 22:59:24,294 | WARNING | Latência alta em [POST /produtos] — 1501ms (limite: 1000ms)
+2026-04-16 22:59:24,294 | INFO | POST /produtos — Pedido de 'Intel Core i9-14900K' realizado com sucesso | Total de pedidos: 11
+2026-04-16 22:59:24,298 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Razer BlackWidow V4 Pro'
+2026-04-16 22:59:24,298 | INFO | Saturação — CPU: 16.9% | Memória: 36.8%
+2026-04-16 22:59:24,673 | WARNING | Latência alta em [GET /produtos] — 1001ms (limite: 1000ms)
+2026-04-16 22:59:24,673 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:24,677 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:24,677 | INFO | Saturação — CPU: 15.5% | Memória: 36.8%
+2026-04-16 22:59:24,698 | INFO | Latência de [POST /produtos] — 401ms
+2026-04-16 22:59:24,698 | INFO | POST /produtos — Pedido de 'Razer BlackWidow V4 Pro' realizado com sucesso | Total de pedidos: 12
+2026-04-16 22:59:24,701 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Arctic MX-6 (Pasta Térmica)'
+2026-04-16 22:59:24,702 | INFO | Saturação — CPU: 8.9% | Memória: 36.8%
+2026-04-16 22:59:25,802 | WARNING | Latência alta em [POST /produtos] — 1101ms (limite: 1000ms)
+2026-04-16 22:59:25,802 | INFO | POST /produtos — Pedido de 'Arctic MX-6 (Pasta Térmica)' realizado com sucesso | Total de pedidos: 13
+2026-04-16 22:59:25,805 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'ASUS ROG Strix Z790-E'
+2026-04-16 22:59:25,806 | INFO | Saturação — CPU: 6.8% | Memória: 36.8%
+2026-04-16 22:59:25,877 | WARNING | Latência alta em [GET /produtos] — 1201ms (limite: 1000ms)
+2026-04-16 22:59:25,877 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:25,881 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:25,881 | INFO | Saturação — CPU: 7.1% | Memória: 36.8%
+2026-04-16 22:59:26,482 | INFO | Latência de [GET /produtos] — 601ms
+2026-04-16 22:59:26,482 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:26,486 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:26,486 | INFO | Saturação — CPU: 14.2% | Memória: 36.8%
+2026-04-16 22:59:26,806 | WARNING | Latência alta em [POST /produtos] — 1001ms (limite: 1000ms)
+2026-04-16 22:59:26,806 | INFO | POST /produtos — Pedido de 'ASUS ROG Strix Z790-E' realizado com sucesso | Total de pedidos: 14
+2026-04-16 22:59:26,809 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Kingston FURY Beast 16GB DDR4'
+2026-04-16 22:59:26,810 | INFO | Saturação — CPU: 13.5% | Memória: 36.8%
+2026-04-16 22:59:27,186 | INFO | Latência de [GET /produtos] — 701ms
+2026-04-16 22:59:27,187 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:27,190 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:27,190 | INFO | Saturação — CPU: 21.4% | Memória: 36.9%
+2026-04-16 22:59:27,710 | INFO | Latência de [POST /produtos] — 901ms
+2026-04-16 22:59:27,710 | INFO | POST /produtos — Pedido de 'Kingston FURY Beast 16GB DDR4' realizado com sucesso | Total de pedidos: 15
+2026-04-16 22:59:27,713 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Corsair Vengeance RGB 32GB DDR5'
+2026-04-16 22:59:27,714 | INFO | Saturação — CPU: 19.0% | Memória: 36.9%
+2026-04-16 22:59:27,714 | INFO | Latência de [POST /produtos] — 1ms
+2026-04-16 22:59:27,714 | INFO | POST /produtos — Pedido de 'Corsair Vengeance RGB 32GB DDR5' realizado com sucesso | Total de pedidos: 16
+2026-04-16 22:59:27,716 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'DeepCool AK620'
+2026-04-16 22:59:27,717 | INFO | Saturação — CPU: 0.0% | Memória: 36.9%
+2026-04-16 22:59:28,090 | INFO | Latência de [GET /produtos] — 901ms
+2026-04-16 22:59:28,091 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:28,094 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:28,094 | INFO | Saturação — CPU: 13.4% | Memória: 36.9%
+2026-04-16 22:59:29,017 | WARNING | Latência alta em [POST /produtos] — 1301ms (limite: 1000ms)
+2026-04-16 22:59:29,017 | INFO | POST /produtos — Pedido de 'DeepCool AK620' realizado com sucesso | Total de pedidos: 17
+2026-04-16 22:59:29,020 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'GPU'
+2026-04-16 22:59:29,021 | INFO | Saturação — CPU: 14.6% | Memória: 36.9%
+2026-04-16 22:59:29,094 | WARNING | Latência alta em [GET /produtos] — 1001ms (limite: 1000ms)
+2026-04-16 22:59:29,094 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:29,098 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:29,098 | INFO | Saturação — CPU: 15.0% | Memória: 36.9%
+2026-04-16 22:59:30,221 | WARNING | Latência alta em [POST /produtos] — 1201ms (limite: 1000ms)
+2026-04-16 22:59:30,221 | ERROR | Erro — Produto 'GPU' não encontrado no catálogo (HTTP 400)| Produtos não existentes solicitados até agora: 1
+2026-04-16 22:59:30,224 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Samsung 990 Pro 2TB NVMe'
+2026-04-16 22:59:30,225 | INFO | Saturação — CPU: 25.8% | Memória: 36.8%
+2026-04-16 22:59:30,225 | INFO | Latência de [POST /produtos] — 1ms
+2026-04-16 22:59:30,225 | INFO | POST /produtos — Pedido de 'Samsung 990 Pro 2TB NVMe' realizado com sucesso | Total de pedidos: 18
+2026-04-16 22:59:30,227 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'AMD Radeon RX 7900 XTX'
+2026-04-16 22:59:30,228 | INFO | Saturação — CPU: 0.0% | Memória: 36.8%
+2026-04-16 22:59:30,599 | WARNING | Latência alta em [GET /produtos] — 1501ms (limite: 1000ms)
+2026-04-16 22:59:30,599 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:30,604 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:30,605 | INFO | Saturação — CPU: 37.0% | Memória: 36.9%
+2026-04-16 22:59:31,228 | WARNING | Latência alta em [POST /produtos] — 1001ms (limite: 1000ms)
+2026-04-16 22:59:31,228 | INFO | POST /produtos — Pedido de 'AMD Radeon RX 7900 XTX' realizado com sucesso | Total de pedidos: 19
+2026-04-16 22:59:31,231 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Logitech G Pro X Superlight'
+2026-04-16 22:59:31,232 | INFO | Saturação — CPU: 41.4% | Memória: 36.8%
+2026-04-16 22:59:31,805 | WARNING | Latência alta em [GET /produtos] — 1201ms (limite: 1000ms)
+2026-04-16 22:59:31,805 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:31,808 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:31,809 | INFO | Saturação — CPU: 19.3% | Memória: 36.8%
+2026-04-16 22:59:32,532 | WARNING | Latência alta em [POST /produtos] — 1301ms (limite: 1000ms)
+2026-04-16 22:59:32,532 | INFO | POST /produtos — Pedido de 'Logitech G Pro X Superlight' realizado com sucesso | Total de pedidos: 20
+2026-04-16 22:59:32,536 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'NZXT Kraken Elite 360'
+2026-04-16 22:59:32,536 | INFO | Saturação — CPU: 18.6% | Memória: 36.9%
+2026-04-16 22:59:33,136 | INFO | Latência de [POST /produtos] — 601ms
+2026-04-16 22:59:33,136 | INFO | POST /produtos — Pedido de 'NZXT Kraken Elite 360' realizado com sucesso | Total de pedidos: 21
+2026-04-16 22:59:33,142 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Logitech G Pro X Superlight'
+2026-04-16 22:59:33,143 | INFO | Saturação — CPU: 20.8% | Memória: 36.9%
+2026-04-16 22:59:33,509 | WARNING | Latência alta em [GET /produtos] — 1701ms (limite: 1000ms)
+2026-04-16 22:59:33,509 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:33,512 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:33,512 | INFO | Saturação — CPU: 20.8% | Memória: 36.9%
+2026-04-16 22:59:33,644 | INFO | Latência de [POST /produtos] — 502ms
+2026-04-16 22:59:33,644 | INFO | POST /produtos — Pedido de 'Logitech G Pro X Superlight' realizado com sucesso | Total de pedidos: 22
+2026-04-16 22:59:33,647 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Cooler Master TD500 Mesh'
+2026-04-16 22:59:33,648 | INFO | Saturação — CPU: 15.8% | Memória: 36.9%
+2026-04-16 22:59:34,148 | INFO | Latência de [POST /produtos] — 501ms
+2026-04-16 22:59:34,148 | INFO | POST /produtos — Pedido de 'Cooler Master TD500 Mesh' realizado com sucesso | Total de pedidos: 23
+2026-04-16 22:59:34,151 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Corsair RM1000x 1000W'
+2026-04-16 22:59:34,152 | INFO | Saturação — CPU: 8.0% | Memória: 36.9%
+2026-04-16 22:59:35,052 | INFO | Latência de [POST /produtos] — 901ms
+2026-04-16 22:59:35,052 | INFO | POST /produtos — Pedido de 'Corsair RM1000x 1000W' realizado com sucesso | Total de pedidos: 24
+2026-04-16 22:59:35,055 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Noctua NH-D15'
+2026-04-16 22:59:35,055 | INFO | Saturação — CPU: 19.9% | Memória: 37.0%
+2026-04-16 22:59:35,256 | INFO | Latência de [POST /produtos] — 201ms
+2026-04-16 22:59:35,257 | INFO | POST /produtos — Pedido de 'Noctua NH-D15' realizado com sucesso | Total de pedidos: 25
+2026-04-16 22:59:35,262 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'GPU'
+2026-04-16 22:59:35,263 | INFO | Saturação — CPU: 12.2% | Memória: 37.0%
+2026-04-16 22:59:35,313 | WARNING | Latência alta em [GET /produtos] — 1801ms (limite: 1000ms)
+2026-04-16 22:59:35,313 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:35,316 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:35,316 | INFO | Saturação — CPU: 15.0% | Memória: 37.0%
+2026-04-16 22:59:36,522 | WARNING | Latência alta em [GET /produtos] — 1206ms (limite: 1000ms)
+2026-04-16 22:59:36,523 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:36,526 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:36,527 | INFO | Saturação — CPU: 7.5% | Memória: 37.0%
+2026-04-16 22:59:36,564 | WARNING | Latência alta em [POST /produtos] — 1302ms (limite: 1000ms)
+2026-04-16 22:59:36,564 | ERROR | Erro — Produto 'GPU' não encontrado no catálogo (HTTP 400)| Produtos não existentes solicitados até agora: 2
+2026-04-16 22:59:36,568 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Corsair Vengeance RGB 32GB DDR5'
+2026-04-16 22:59:36,569 | INFO | Saturação — CPU: 9.2% | Memória: 37.0%
+2026-04-16 22:59:36,569 | INFO | Latência de [POST /produtos] — 1ms
+2026-04-16 22:59:36,569 | INFO | POST /produtos — Pedido de 'Corsair Vengeance RGB 32GB DDR5' realizado com sucesso | Total de pedidos: 26
+2026-04-16 22:59:36,572 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Gigabyte B650 AORUS Elite'
+2026-04-16 22:59:36,572 | INFO | Saturação — CPU: 0.0% | Memória: 37.0%
+2026-04-16 22:59:37,873 | WARNING | Latência alta em [POST /produtos] — 1301ms (limite: 1000ms)
+2026-04-16 22:59:37,873 | INFO | POST /produtos — Pedido de 'Gigabyte B650 AORUS Elite' realizado com sucesso | Total de pedidos: 27
+2026-04-16 22:59:37,877 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'NZXT Kraken Elite 360'
+2026-04-16 22:59:37,878 | INFO | Saturação — CPU: 35.0% | Memória: 36.8%
+2026-04-16 22:59:38,227 | WARNING | Latência alta em [GET /produtos] — 1701ms (limite: 1000ms)
+2026-04-16 22:59:38,227 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:38,231 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:38,231 | INFO | Saturação — CPU: 36.1% | Memória: 36.9%
+2026-04-16 22:59:38,531 | INFO | Latência de [GET /produtos] — 301ms
+2026-04-16 22:59:38,531 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:38,548 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:38,551 | INFO | Saturação — CPU: 22.2% | Memória: 36.9%
+2026-04-16 22:59:38,778 | INFO | Latência de [POST /produtos] — 901ms
+2026-04-16 22:59:38,778 | INFO | POST /produtos — Pedido de 'NZXT Kraken Elite 360' realizado com sucesso | Total de pedidos: 28
+2026-04-16 22:59:38,781 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'EVGA SuperNOVA 750 G6'
+2026-04-16 22:59:38,782 | INFO | Saturação — CPU: 30.3% | Memória: 36.9%
+2026-04-16 22:59:39,757 | WARNING | Latência alta em [GET /produtos] — 1209ms (limite: 1000ms)
+2026-04-16 22:59:39,757 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:39,760 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:39,761 | INFO | Saturação — CPU: 10.4% | Memória: 36.9%
+2026-04-16 22:59:39,761 | INFO | Latência de [GET /produtos] — 1ms
+2026-04-16 22:59:39,761 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:39,764 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:39,764 | INFO | Saturação — CPU: 0.0% | Memória: 36.9%
+2026-04-16 22:59:40,282 | WARNING | Latência alta em [POST /produtos] — 1501ms (limite: 1000ms)
+2026-04-16 22:59:40,282 | INFO | POST /produtos — Pedido de 'EVGA SuperNOVA 750 G6' realizado com sucesso | Total de pedidos: 29
+2026-04-16 22:59:40,285 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'NZXT Kraken Elite 360'
+2026-04-16 22:59:40,286 | INFO | Saturação — CPU: 14.8% | Memória: 37.0%
+2026-04-16 22:59:40,464 | INFO | Latência de [GET /produtos] — 701ms
+2026-04-16 22:59:40,464 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:40,467 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:40,468 | INFO | Saturação — CPU: 25.2% | Memória: 37.0%
+2026-04-16 22:59:41,186 | INFO | Latência de [POST /produtos] — 901ms
+2026-04-16 22:59:41,186 | INFO | POST /produtos — Pedido de 'NZXT Kraken Elite 360' realizado com sucesso | Total de pedidos: 30
+2026-04-16 22:59:41,189 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Corsair Vengeance RGB 32GB DDR5'
+2026-04-16 22:59:41,190 | INFO | Saturação — CPU: 11.7% | Memória: 37.0%
+2026-04-16 22:59:41,290 | INFO | Latência de [POST /produtos] — 101ms
+2026-04-16 22:59:41,290 | INFO | POST /produtos — Pedido de 'Corsair Vengeance RGB 32GB DDR5' realizado com sucesso | Total de pedidos: 31
+2026-04-16 22:59:41,293 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Intel Core i9-14900K'
+2026-04-16 22:59:41,294 | INFO | Saturação — CPU: 5.0% | Memória: 37.0%
+2026-04-16 22:59:42,068 | WARNING | Latência alta em [GET /produtos] — 1601ms (limite: 1000ms)
+2026-04-16 22:59:42,068 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:42,071 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:42,072 | INFO | Saturação — CPU: 26.1% | Memória: 36.9%
+2026-04-16 22:59:42,672 | INFO | Latência de [GET /produtos] — 601ms
+2026-04-16 22:59:42,672 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:42,687 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:42,689 | INFO | Saturação — CPU: 26.4% | Memória: 36.9%
+2026-04-16 22:59:42,694 | WARNING | Latência alta em [POST /produtos] — 1401ms (limite: 1000ms)
+2026-04-16 22:59:42,694 | INFO | POST /produtos — Pedido de 'Intel Core i9-14900K' realizado com sucesso | Total de pedidos: 32
+2026-04-16 22:59:42,699 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Corsair RM1000x 1000W'
+2026-04-16 22:59:42,699 | INFO | Saturação — CPU: 36.0% | Memória: 36.9%
+2026-04-16 22:59:43,200 | INFO | Latência de [POST /produtos] — 501ms
+2026-04-16 22:59:43,200 | INFO | POST /produtos — Pedido de 'Corsair RM1000x 1000W' realizado com sucesso | Total de pedidos: 33
+2026-04-16 22:59:43,203 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'AMD Ryzen 7 7800X3D'
+2026-04-16 22:59:43,204 | INFO | Saturação — CPU: 26.7% | Memória: 36.9%
+2026-04-16 22:59:43,690 | WARNING | Latência alta em [GET /produtos] — 1004ms (limite: 1000ms)
+2026-04-16 22:59:43,690 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:43,693 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:43,694 | INFO | Saturação — CPU: 22.9% | Memória: 37.0%
+2026-04-16 22:59:44,204 | WARNING | Latência alta em [POST /produtos] — 1001ms (limite: 1000ms)
+2026-04-16 22:59:44,204 | INFO | POST /produtos — Pedido de 'AMD Ryzen 7 7800X3D' realizado com sucesso | Total de pedidos: 34
+2026-04-16 22:59:44,207 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Seagate IronWolf 8TB HDD'
+2026-04-16 22:59:44,207 | INFO | Saturação — CPU: 17.7% | Memória: 37.0%
+2026-04-16 22:59:44,808 | INFO | Latência de [POST /produtos] — 601ms
+2026-04-16 22:59:44,808 | INFO | POST /produtos — Pedido de 'Seagate IronWolf 8TB HDD' realizado com sucesso | Total de pedidos: 35
+2026-04-16 22:59:44,811 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'DeepCool AK620'
+2026-04-16 22:59:44,811 | INFO | Saturação — CPU: 15.1% | Memória: 37.0%
+2026-04-16 22:59:45,594 | WARNING | Latência alta em [GET /produtos] — 1901ms (limite: 1000ms)
+2026-04-16 22:59:45,594 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:45,597 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:45,597 | INFO | Saturação — CPU: 13.8% | Memória: 37.0%
+2026-04-16 22:59:45,712 | INFO | Latência de [POST /produtos] — 901ms
+2026-04-16 22:59:45,712 | INFO | POST /produtos — Pedido de 'DeepCool AK620' realizado com sucesso | Total de pedidos: 36
+2026-04-16 22:59:45,715 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'DeepCool AK620'
+2026-04-16 22:59:45,715 | INFO | Saturação — CPU: 8.8% | Memória: 37.0%
+2026-04-16 22:59:46,716 | WARNING | Latência alta em [POST /produtos] — 1001ms (limite: 1000ms)
+2026-04-16 22:59:46,716 | INFO | POST /produtos — Pedido de 'DeepCool AK620' realizado com sucesso | Total de pedidos: 37
+2026-04-16 22:59:46,719 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'MSI MAG B550 Tomahawk'
+2026-04-16 22:59:46,719 | INFO | Saturação — CPU: 4.5% | Memória: 37.0%
+2026-04-16 22:59:46,998 | WARNING | Latência alta em [GET /produtos] — 1401ms (limite: 1000ms)
+2026-04-16 22:59:46,998 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:47,001 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:47,001 | INFO | Saturação — CPU: 8.2% | Memória: 37.0%
+2026-04-16 22:59:47,320 | INFO | Latência de [POST /produtos] — 601ms
+2026-04-16 22:59:47,320 | INFO | POST /produtos — Pedido de 'MSI MAG B550 Tomahawk' realizado com sucesso | Total de pedidos: 38
+2026-04-16 22:59:47,325 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'mouse'
+2026-04-16 22:59:47,326 | INFO | Saturação — CPU: 57.5% | Memória: 37.0%
+2026-04-16 22:59:47,502 | INFO | Latência de [GET /produtos] — 501ms
+2026-04-16 22:59:47,502 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:47,505 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:47,506 | INFO | Saturação — CPU: 80.8% | Memória: 37.0%
+2026-04-16 22:59:47,506 | INFO | Latência de [GET /produtos] — 1ms
+2026-04-16 22:59:47,506 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:47,509 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:47,509 | INFO | Saturação — CPU: 0.0% | Memória: 37.0%
+2026-04-16 22:59:48,710 | WARNING | Latência alta em [GET /produtos] — 1202ms (limite: 1000ms)
+2026-04-16 22:59:48,710 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:48,714 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:48,714 | INFO | Saturação — CPU: 15.4% | Memória: 37.0%
+2026-04-16 22:59:48,726 | WARNING | Latência alta em [POST /produtos] — 1401ms (limite: 1000ms)
+2026-04-16 22:59:48,726 | ERROR | Erro — Produto 'mouse' não encontrado no catálogo (HTTP 400)| Produtos não existentes solicitados até agora: 3
+2026-04-16 22:59:48,729 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'MSI MAG B550 Tomahawk'
+2026-04-16 22:59:48,729 | INFO | Saturação — CPU: 22.2% | Memória: 37.0%
+2026-04-16 22:59:49,530 | INFO | Latência de [POST /produtos] — 801ms
+2026-04-16 22:59:49,530 | INFO | POST /produtos — Pedido de 'MSI MAG B550 Tomahawk' realizado com sucesso | Total de pedidos: 39
+2026-04-16 22:59:49,533 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'mouse'
+2026-04-16 22:59:49,533 | INFO | Saturação — CPU: 25.6% | Memória: 36.9%
+2026-04-16 22:59:49,614 | INFO | Latência de [GET /produtos] — 901ms
+2026-04-16 22:59:49,614 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:49,617 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:49,618 | INFO | Saturação — CPU: 23.5% | Memória: 36.9%
+2026-04-16 22:59:50,434 | INFO | Latência de [POST /produtos] — 901ms
+2026-04-16 22:59:50,434 | ERROR | Erro — Produto 'mouse' não encontrado no catálogo (HTTP 400)| Produtos não existentes solicitados até agora: 4
+2026-04-16 22:59:50,437 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'DeepCool AK620'
+2026-04-16 22:59:50,437 | INFO | Saturação — CPU: 20.0% | Memória: 36.8%
+2026-04-16 22:59:50,838 | INFO | Latência de [POST /produtos] — 401ms
+2026-04-16 22:59:50,838 | INFO | POST /produtos — Pedido de 'DeepCool AK620' realizado com sucesso | Total de pedidos: 40
+2026-04-16 22:59:50,841 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Lian Li PC-O11 Dynamic'
+2026-04-16 22:59:50,841 | INFO | Saturação — CPU: 7.5% | Memória: 36.8%
+2026-04-16 22:59:51,242 | INFO | Latência de [POST /produtos] — 401ms
+2026-04-16 22:59:51,242 | INFO | POST /produtos — Pedido de 'Lian Li PC-O11 Dynamic' realizado com sucesso | Total de pedidos: 41
+2026-04-16 22:59:51,245 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'EVGA SuperNOVA 750 G6'
+2026-04-16 22:59:51,245 | INFO | Saturação — CPU: 17.3% | Memória: 36.8%
+2026-04-16 22:59:51,518 | WARNING | Latência alta em [GET /produtos] — 1901ms (limite: 1000ms)
+2026-04-16 22:59:51,518 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:51,521 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:51,521 | INFO | Saturação — CPU: 15.8% | Memória: 36.8%
+2026-04-16 22:59:51,946 | INFO | Latência de [POST /produtos] — 701ms
+2026-04-16 22:59:51,946 | INFO | POST /produtos — Pedido de 'EVGA SuperNOVA 750 G6' realizado com sucesso | Total de pedidos: 42
+2026-04-16 22:59:51,949 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Crucial P3 1TB M.2'
+2026-04-16 22:59:51,949 | INFO | Saturação — CPU: 5.7% | Memória: 36.8%
+2026-04-16 22:59:53,122 | WARNING | Latência alta em [GET /produtos] — 1601ms (limite: 1000ms)
+2026-04-16 22:59:53,122 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:53,125 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:53,125 | INFO | Saturação — CPU: 35.1% | Memória: 36.8%
+2026-04-16 22:59:53,126 | INFO | Latência de [GET /produtos] — 1ms
+2026-04-16 22:59:53,126 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:53,128 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:53,129 | INFO | Saturação — CPU: 100.0% | Memória: 36.8%
+2026-04-16 22:59:53,250 | WARNING | Latência alta em [POST /produtos] — 1301ms (limite: 1000ms)
+2026-04-16 22:59:53,250 | INFO | POST /produtos — Pedido de 'Crucial P3 1TB M.2' realizado com sucesso | Total de pedidos: 43
+2026-04-16 22:59:53,253 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Intel Core i9-14900K'
+2026-04-16 22:59:53,253 | INFO | Saturação — CPU: 45.9% | Memória: 36.8%
+2026-04-16 22:59:53,429 | INFO | Latência de [GET /produtos] — 301ms
+2026-04-16 22:59:53,429 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:53,432 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:53,433 | INFO | Saturação — CPU: 24.6% | Memória: 36.8%
+2026-04-16 22:59:53,433 | INFO | Latência de [GET /produtos] — 1ms
+2026-04-16 22:59:53,433 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:53,435 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:53,436 | INFO | Saturação — CPU: 0.0% | Memória: 36.8%
+2026-04-16 22:59:53,754 | INFO | Latência de [POST /produtos] — 501ms
+2026-04-16 22:59:53,754 | INFO | POST /produtos — Pedido de 'Intel Core i9-14900K' realizado com sucesso | Total de pedidos: 44
+2026-04-16 22:59:53,757 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'MSI MAG B550 Tomahawk'
+2026-04-16 22:59:53,757 | INFO | Saturação — CPU: 17.6% | Memória: 36.8%
+2026-04-16 22:59:53,757 | INFO | Latência de [POST /produtos] — 1ms
+2026-04-16 22:59:53,758 | INFO | POST /produtos — Pedido de 'MSI MAG B550 Tomahawk' realizado com sucesso | Total de pedidos: 45
+2026-04-16 22:59:53,760 | INFO | Tráfego — POST /produtos recebido | produto solicitado: 'Seagate IronWolf 8TB HDD'
+2026-04-16 22:59:53,760 | INFO | Saturação — CPU: 0.0% | Memória: 36.8%
+2026-04-16 22:59:54,461 | INFO | Latência de [POST /produtos] — 701ms
+2026-04-16 22:59:54,462 | INFO | POST /produtos — Pedido de 'Seagate IronWolf 8TB HDD' realizado com sucesso | Total de pedidos: 46
+2026-04-16 22:59:54,736 | WARNING | Latência alta em [GET /produtos] — 1301ms (limite: 1000ms)
+2026-04-16 22:59:54,736 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:54,739 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:54,740 | INFO | Saturação — CPU: 19.2% | Memória: 36.7%
+2026-04-16 22:59:55,640 | INFO | Latência de [GET /produtos] — 901ms
+2026-04-16 22:59:55,640 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:55,643 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:55,644 | INFO | Saturação — CPU: 16.2% | Memória: 36.7%
+2026-04-16 22:59:56,544 | INFO | Latência de [GET /produtos] — 901ms
+2026-04-16 22:59:56,544 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:56,547 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:56,548 | INFO | Saturação — CPU: 3.3% | Memória: 36.7%
+2026-04-16 22:59:58,548 | WARNING | Latência alta em [GET /produtos] — 2001ms (limite: 1000ms)
+2026-04-16 22:59:58,548 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:58,551 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:58,552 | INFO | Saturação — CPU: 27.9% | Memória: 36.4%
+2026-04-16 22:59:59,752 | WARNING | Latência alta em [GET /produtos] — 1201ms (limite: 1000ms)
+2026-04-16 22:59:59,752 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 22:59:59,755 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 22:59:59,756 | INFO | Saturação — CPU: 8.8% | Memória: 36.4%
+2026-04-16 23:00:00,756 | WARNING | Latência alta em [GET /produtos] — 1001ms (limite: 1000ms)
+2026-04-16 23:00:00,756 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 23:00:00,759 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 23:00:00,760 | INFO | Saturação — CPU: 28.5% | Memória: 36.7%
+2026-04-16 23:00:01,760 | WARNING | Latência alta em [GET /produtos] — 1001ms (limite: 1000ms)
+2026-04-16 23:00:01,760 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 23:00:01,763 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 23:00:01,764 | INFO | Saturação — CPU: 12.1% | Memória: 36.7%
+2026-04-16 23:00:02,265 | INFO | Latência de [GET /produtos] — 502ms
+2026-04-16 23:00:02,265 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 23:00:02,298 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 23:00:02,298 | INFO | Saturação — CPU: 13.1% | Memória: 36.7%
+2026-04-16 23:00:04,099 | WARNING | Latência alta em [GET /produtos] — 1801ms (limite: 1000ms)
+2026-04-16 23:00:04,099 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 23:00:04,102 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 23:00:04,102 | INFO | Saturação — CPU: 31.7% | Memória: 36.8%
+2026-04-16 23:00:04,203 | INFO | Latência de [GET /produtos] — 101ms
+2026-04-16 23:00:04,203 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 23:00:04,206 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 23:00:04,206 | INFO | Saturação — CPU: 23.8% | Memória: 36.8%
+2026-04-16 23:00:05,106 | INFO | Latência de [GET /produtos] — 901ms
+2026-04-16 23:00:05,106 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 23:00:05,110 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 23:00:05,110 | INFO | Saturação — CPU: 8.3% | Memória: 36.8%
+2026-04-16 23:00:06,010 | INFO | Latência de [GET /produtos] — 901ms
+2026-04-16 23:00:06,010 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 23:00:06,014 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 23:00:06,014 | INFO | Saturação — CPU: 19.4% | Memória: 36.8%
+2026-04-16 23:00:07,015 | WARNING | Latência alta em [GET /produtos] — 1001ms (limite: 1000ms)
+2026-04-16 23:00:07,015 | INFO | GET /produtos — 25 produtos retornados com sucesso
+2026-04-16 23:00:07,018 | INFO | Tráfego — GET /produtos recebido
+2026-04-16 23:00:07,018 | INFO | Saturação — CPU: 5.0% | Memória: 36.8%
+2026-04-16 23:00:07,919 | INFO | Latência de [GET /produtos] — 901ms
+2026-04-16 23:00:07,919 | INFO | GET /produtos — 25 produtos retornados com sucesso
